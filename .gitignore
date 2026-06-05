@@ -1,0 +1,38 @@
+# Python / editor cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Local CP2K distribution; keep tools/cp2k-windows/README.md tracked.
+tools/cp2k-windows/cp2k-2025.2.x64/
+tools/cp2k-windows/*.zip
+
+# CP2K large restart and scratch artifacts
+*.wfn
+*.wfn.*
+*.bak-*
+*.restart
+*.RESTART
+
+# VASP large/generated artifacts
+WAVECAR
+WAVEDER
+CHGCAR
+CHG
+AECCAR*
+vasprun.xml
+XDATCAR
+EIGENVAL
+IBZKPT
+PCDAT
+DOSCAR
+PROCAR
+REPORT
+OSZICAR
+OUTCAR
+*.tmp
+*.log

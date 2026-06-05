@@ -1,0 +1,265 @@
+ DBCSR| CPU Multiplication driver                                           BLAS
+ DBCSR| Multrec recursion limit                                              512
+ DBCSR| Multiplication stack size                                           1000
+ DBCSR| Maximum elements for images                                    UNLIMITED
+ DBCSR| Multiplicative factor virtual images                                   1
+ DBCSR| Use multiplication densification                                       T
+ DBCSR| Multiplication size stacks                                             3
+ DBCSR| Use memory pool for CPU allocation                                     F
+ DBCSR| Number of 3D layers                                               SINGLE
+ DBCSR| Use MPI memory allocation                                              F
+ DBCSR| Use RMA algorithm                                                      F
+ DBCSR| Use Communication thread                                               T
+ DBCSR| Communication thread load                                             83
+ DBCSR| MPI: My node id                                                        0
+ DBCSR| MPI: Number of nodes                                                   6
+ DBCSR| OMP: Current number of threads                                         2
+ DBCSR| OMP: Max number of threads                                             2
+ DBCSR| Split modifier for TAS multiplication algorithm                  1.0E+00
+
+
+  **** **** ******  **  PROGRAM STARTED AT               2026-06-03 23:38:10.776
+ ***** ** ***  *** **   PROGRAM STARTED ON                       WIN-J3K434GUOOG
+ **    ****   ******    PROGRAM STARTED BY                                   cpl
+ ***** **    ** ** **   PROGRAM PROCESS ID                                   432
+  **** **  *******  **  PROGRAM STARTED IN /mnt/d/CPL_CAL/cp2k_a3eucl6_workflow/
+                                           runs/QUVXEO_2401649_R_Honly_final_sp
+
+ CP2K| version string:                                          CP2K version 9.1
+ CP2K| source code revision number:                                  git:d8d7100
+ CP2K| cp2kflags: omp libint fftw3 libxc elpa parallel mpi3 scalapack spglib    
+ CP2K| is freely available from                            https://www.cp2k.org/
+ CP2K| Program compiled at                          Sun Jan  9 17:14:22 UTC 2022
+ CP2K| Program compiled on                                       lcy02-amd64-025
+ CP2K| Program compiled for                                Linux-x86_64-gfortran
+ CP2K| Data directory path                                       /usr/share/cp2k
+ CP2K| Input file name                                               cellopt.inp
+
+ GLOBAL| Force Environment number                                              1
+ GLOBAL| Basis set file name                                       BASIS_A3EUCL6
+ GLOBAL| Potential file name                                   POTENTIAL_A3EUCL6
+ GLOBAL| MM Potential file name                                     MM_POTENTIAL
+ GLOBAL| Coordinate file name                                      __STD_INPUT__
+ GLOBAL| Method name                                                        CP2K
+ GLOBAL| Project name                                          QUVXEO_R_HONLY_SP
+ GLOBAL| Run type                                                         ENERGY
+ GLOBAL| FFT library                                                       FFTW3
+ GLOBAL| Diagonalization library                                            ELPA
+ GLOBAL| Minimum number of eigenvectors for ELPA usage                        16
+ GLOBAL| Orthonormality check for eigenvectors                          DISABLED
+ GLOBAL| Matrix multiplication library                                 ScaLAPACK
+ GLOBAL| All-to-all communication in single precision                          F
+ GLOBAL| FFTs using library dependent lengths                                  F
+ GLOBAL| Grid backend                                                       AUTO
+ GLOBAL| Global print level                                                  LOW
+ GLOBAL| MPI I/O enabled                                                       T
+ GLOBAL| Total number of message passing processes                             6
+ GLOBAL| Number of threads for this process                                    2
+ GLOBAL| This output is from process                                           0
+ GLOBAL| Stack size for threads created by OpenMP (OMP_STACKSIZE)        default
+ GLOBAL| CPU model name                             Intel(R) Core(TM) i5-14600KF
+
+ MEMORY| system memory details [Kb]
+ MEMORY|                        rank 0           min           max       average
+ MEMORY| MemTotal             16278580      16278580      16278580      16278580
+ MEMORY| MemFree              14796780      14796780      14796780      14796780
+ MEMORY| Buffers                 47152         47152         47152         47152
+ MEMORY| Cached                 458104        458104        458104        458104
+ MEMORY| Slab                    89924         89924         89924         89924
+ MEMORY| SReclaimable            22356         22356         22356         22356
+ MEMORY| MemLikelyFree        15324392      15324392      15324392      15324392
+
+
+ GENERATE|  Preliminary Number of Bonds generated:                             0
+ GENERATE|  Achieved consistency in connectivity generation.
+
+ *******************************************************************************
+ *******************************************************************************
+ **                                                                           **
+ **     #####                         ##              ##                      **
+ **    ##   ##            ##          ##              ##                      **
+ **   ##     ##                       ##            ######                    **
+ **   ##     ##  ##   ##  ##   #####  ##  ##   ####   ##    #####    #####    **
+ **   ##     ##  ##   ##  ##  ##      ## ##   ##      ##   ##   ##  ##   ##   **
+ **   ##  ## ##  ##   ##  ##  ##      ####     ###    ##   ######   ######    **
+ **    ##  ###   ##   ##  ##  ##      ## ##      ##   ##   ##       ##        **
+ **     #######   #####   ##   #####  ##  ##  ####    ##    #####   ##        **
+ **           ##                                                    ##        **
+ **                                                                           **
+ **                                                ... make the atoms dance   **
+ **                                                                           **
+ **            Copyright (C) by CP2K developers group (2000-2021)             **
+ **                      J. Chem. Phys. 152, 194103 (2020)                    **
+ **                                                                           **
+ *******************************************************************************
+
+
+ TOTAL NUMBERS AND MAXIMUM NUMBERS
+
+  Total number of            - Atomic kinds:                                   6
+                             - Atoms:                                        280
+                             - Shell sets:                                   296
+                             - Shells:                                      1160
+                             - Primitive Cartesian functions:               1388
+                             - Cartesian basis functions:                   2920
+                             - Spherical basis functions:                   2720
+
+  Maximum angular momentum of- Orbital basis functions:                        3
+                             - Local part of the GTH pseudopotential:          2
+                             - Non-local part of the GTH pseudopotential:      4
+
+
+ SCF PARAMETERS         Density guess:                                   RESTART
+                        --------------------------------------------------------
+                        max_scf:                                             240
+                        max_scf_history:                                       0
+                        max_diis:                                              4
+                        --------------------------------------------------------
+                        eps_scf:                                        1.00E-06
+                        eps_scf_history:                                0.00E+00
+                        eps_diis:                                       1.00E-01
+                        eps_eigval:                                     1.00E-05
+                        --------------------------------------------------------
+                        level_shift [a.u.]:                                 0.00
+                        --------------------------------------------------------
+                        Outer loop SCF in use 
+                        No variables optimised in outer loop
+                        eps_scf                                         1.00E-06
+                        max_scf                                                8
+                        No outer loop optimization
+                        step_size                                       5.00E-01
+
+ Number of electrons:                                                        896
+ Number of occupied orbitals:                                                448
+ Number of molecular orbitals:                                               448
+
+ Number of orbital functions:                                               2720
+ Number of independent orbital functions:                                   2720
+
+ Extrapolation method: initial_guess
+
+
+ SCF WAVEFUNCTION OPTIMIZATION
+
+  ----------------------------------- OT ---------------------------------------
+  Minimizer      : DIIS                : direct inversion
+                                         in the iterative subspace
+                                         using   7 DIIS vectors
+                                         safer DIIS on
+  Preconditioner : FULL_SINGLE_INVERSE : inversion of 
+                                         H + eS - 2*(Sc)(c^T*H*c+const)(Sc)^T
+  Precond_solver : DEFAULT
+  stepsize       :    0.08000000                  energy_gap     :    0.08000000
+  eps_taylor     :   0.10000E-15                  max_taylor     :             4
+  ----------------------------------- OT ---------------------------------------
+
+  Step     Update method      Time    Convergence         Total energy    Change
+  ------------------------------------------------------------------------------
+     1 OT DIIS     0.80E-01    4.9     0.00000905     -1636.7585003157 -1.64E+03
+     2 OT DIIS     0.80E-01    3.1     0.00001067     -1636.7585067655 -6.45E-06
+     3 OT DIIS     0.80E-01    3.0     0.00000827     -1636.7585096111 -2.85E-06
+     4 OT DIIS     0.80E-01    3.1     0.00000820     -1636.7585192379 -9.63E-06
+     5 OT DIIS     0.80E-01    3.2     0.00000762     -1636.7585464032 -2.72E-05
+     6 OT DIIS     0.80E-01    3.2     0.00000738     -1636.7585611864 -1.48E-05
+     7 OT DIIS     0.80E-01    3.1     0.00000669     -1636.7586003040 -3.91E-05
+     8 OT DIIS     0.80E-01    3.1     0.00000598     -1636.7586408935 -4.06E-05
+     9 OT DIIS     0.80E-01    3.4     0.00000574     -1636.7586613507 -2.05E-05
+    10 OT DIIS     0.80E-01    3.2     0.00000480     -1636.7586817074 -2.04E-05
+    11 OT DIIS     0.80E-01    3.1     0.00000469     -1636.7586960707 -1.44E-05
+    12 OT DIIS     0.80E-01    3.1     0.00000430     -1636.7587064480 -1.04E-05
+    13 OT DIIS     0.80E-01    3.0     0.00000406     -1636.7587129166 -6.47E-06
+    14 OT DIIS     0.80E-01    3.1     0.00000399     -1636.7587180179 -5.10E-06
+    15 OT DIIS     0.80E-01    3.2     0.00000364     -1636.7587228719 -4.85E-06
+    16 OT DIIS     0.80E-01    3.1     0.00000346     -1636.7587288038 -5.93E-06
+    17 OT DIIS     0.80E-01    3.1     0.00000330     -1636.7587372249 -8.42E-06
+    18 OT DIIS     0.80E-01    3.1     0.00000297     -1636.7587409621 -3.74E-06
+    19 OT DIIS     0.80E-01    3.1     0.00000261     -1636.7587464347 -5.47E-06
+    20 OT DIIS     0.80E-01    3.1     0.00000241     -1636.7587488555 -2.42E-06
+    21 OT DIIS     0.80E-01    3.1     0.00000227     -1636.7587507037 -1.85E-06
+    22 OT DIIS     0.80E-01    3.1     0.00000219     -1636.7587519307 -1.23E-06
+    23 OT DIIS     0.80E-01    3.1     0.00000203     -1636.7587526215 -6.91E-07
+    24 OT DIIS     0.80E-01    3.4     0.00000191     -1636.7587533754 -7.54E-07
+    25 OT DIIS     0.80E-01    3.1     0.00000185     -1636.7587539465 -5.71E-07
+    26 OT DIIS     0.80E-01    3.3     0.00000177     -1636.7587542825 -3.36E-07
+    27 OT DIIS     0.80E-01    3.4     0.00000174     -1636.7587548570 -5.75E-07
+    28 OT DIIS     0.80E-01    3.1     0.00000172     -1636.7587552552 -3.98E-07
+    29 OT DIIS     0.80E-01    3.1     0.00000169     -1636.7587559055 -6.50E-07
+    30 OT DIIS     0.80E-01    3.2     0.00000167     -1636.7587565509 -6.45E-07
+    31 OT DIIS     0.80E-01    3.4     0.00000164     -1636.7587570205 -4.70E-07
+    32 OT DIIS     0.80E-01    3.4     0.00000159     -1636.7587578015 -7.81E-07
+    33 OT DIIS     0.80E-01    3.2     0.00000158     -1636.7587585029 -7.01E-07
+    34 OT DIIS     0.80E-01    3.3     0.00000156     -1636.7587590269 -5.24E-07
+    35 OT DIIS     0.80E-01    3.5     0.00000153     -1636.7587598276 -8.01E-07
+    36 OT DIIS     0.80E-01    3.3     0.00000151     -1636.7587602936 -4.66E-07
+    37 OT DIIS     0.80E-01    3.5     0.00000149     -1636.7587608578 -5.64E-07
+    38 OT DIIS     0.80E-01    3.2     0.00000148     -1636.7587613109 -4.53E-07
+    39 OT DIIS     0.80E-01    3.1     0.00000147     -1636.7587616411 -3.30E-07
+    40 OT DIIS     0.80E-01    3.2     0.00000146     -1636.7587622545 -6.13E-07
+    41 OT DIIS     0.80E-01    3.5     0.00000146     -1636.7587629162 -6.62E-07
+    42 OT DIIS     0.80E-01    3.2     0.00000145     -1636.7587635026 -5.86E-07
+    43 OT DIIS     0.80E-01    3.6     0.00000144     -1636.7587643708 -8.68E-07
+    44 OT DIIS     0.80E-01    3.1     0.00000143     -1636.7587648788 -5.08E-07
+    45 OT DIIS     0.80E-01    3.2     0.00000142     -1636.7587655739 -6.95E-07
+    46 OT DIIS     0.80E-01    3.1     0.00000142     -1636.7587661619 -5.88E-07
+    47 OT DIIS     0.80E-01    3.2     0.00000141     -1636.7587666389 -4.77E-07
+    48 OT DIIS     0.80E-01    3.1     0.00000140     -1636.7587674024 -7.64E-07
+    49 OT DIIS     0.80E-01    3.2     0.00000140     -1636.7587679941 -5.92E-07
+    50 OT DIIS     0.80E-01    3.1     0.00000140     -1636.7587684817 -4.88E-07
+    51 OT DIIS     0.80E-01    3.1     0.00000139     -1636.7587689565 -4.75E-07
+    52 OT DIIS     0.80E-01    3.1     0.00000139     -1636.7587692175 -2.61E-07
+    53 OT DIIS     0.80E-01    3.1     0.00000139     -1636.7587695243 -3.07E-07
+    54 OT DIIS     0.80E-01    3.1     0.00000139     -1636.7587697354 -2.11E-07
+    55 OT DIIS     0.80E-01    3.1     0.00000139     -1636.7587698709 -1.36E-07
+    56 OT DIIS     0.80E-01    3.1     0.00000139     -1636.7587699921 -1.21E-07
+    57 OT SD       0.80E-01    3.2     0.00000139     -1636.7587700910 -9.89E-08
+    58 OT SD       0.80E-01    3.3     0.00000139     -1636.7587702794 -1.88E-07
+    59 OT SD       0.80E-01    3.1     0.00000139     -1636.7587704678 -1.88E-07
+    60 OT SD       0.80E-01    3.1     0.00000140     -1636.7587706562 -1.88E-07
+    61 OT SD       0.80E-01    3.1     0.00000145     -1636.7587708431 -1.87E-07
+    62 OT SD       0.80E-01    3.2     0.00000174     -1636.7587710197 -1.77E-07
+    63 OT SD       0.80E-01    3.4     0.00000302     -1636.7587711259 -1.06E-07
+    64 OT SD       0.80E-01    3.3     0.00000708     -1636.7587707595  3.66E-07
+    65 OT SD       0.80E-01    3.1     0.00001807     -1636.7587672069  3.55E-06
+    66 OT DIIS     0.80E-01    3.2     0.00004692     -1636.7587420636  2.51E-05
+    67 OT DIIS     0.80E-01    3.1     0.00000144     -1636.7587587801 -1.67E-05
+    68 OT SD       0.80E-01    3.1     0.00000133     -1636.7587626544 -3.87E-06
+    69 OT SD       0.80E-01    3.2     0.00000139     -1636.7587628132 -1.59E-07
+    70 OT SD       0.80E-01    3.3     0.00000164     -1636.7587629622 -1.49E-07
+    71 OT SD       0.80E-01    3.1     0.00000253     -1636.7587630668 -1.05E-07
+    72 OT SD       0.80E-01    3.1     0.00000507     -1636.7587629420  1.25E-07
+    73 OT DIIS     0.80E-01    3.1     0.00001143     -1636.7587615747  1.37E-06
+    74 OT SD       0.80E-01    3.1     0.00000124     -1636.7587632615 -1.69E-06
+    75 OT SD       0.80E-01    3.1     0.00000128     -1636.7587634065 -1.45E-07
+    76 OT DIIS     0.80E-01    3.1     0.00000148     -1636.7587635450 -1.38E-07
+    77 OT DIIS     0.80E-01    3.4     0.00000122     -1636.7587635070  3.80E-08
+    78 OT DIIS     0.80E-01    3.1     0.00000121     -1636.7587635943 -8.73E-08
+    79 OT DIIS     0.80E-01    3.0     0.00000121     -1636.7587637181 -1.24E-07
+    80 OT DIIS     0.80E-01    3.1     0.00000121     -1636.7587639021 -1.84E-07
+    81 OT DIIS     0.80E-01    3.2     0.00000121     -1636.7587642519 -3.50E-07
+    82 OT SD       0.80E-01    3.2     0.00000121     -1636.7587642706 -1.87E-08
+    83 OT SD       0.80E-01    3.2     0.00000121     -1636.7587644142 -1.44E-07
+    84 OT SD       0.80E-01    3.1     0.00000122     -1636.7587645578 -1.44E-07
+    85 OT SD       0.80E-01    3.4     0.00000124     -1636.7587647009 -1.43E-07
+    86 OT SD       0.80E-01    3.2     0.00000138     -1636.7587648401 -1.39E-07
+    87 OT SD       0.80E-01    3.2     0.00000209     -1636.7587649514 -1.11E-07
+    88 OT SD       0.80E-01    3.1     0.00000458     -1636.7587648718  7.96E-08
+    89 OT SD       0.80E-01    3.2     0.00001161     -1636.7587634855  1.39E-06
+    90 OT DIIS     0.80E-01    3.2     0.00003030     -1636.7587531055  1.04E-05
+    91 OT DIIS     0.80E-01    3.1     0.00000117     -1636.7587512282  1.88E-06
+    92 OT SD       0.80E-01    3.2     0.00000111     -1636.7587527275 -1.50E-06
+    93 OT SD       0.80E-01    3.1     0.00000114     -1636.7587528386 -1.11E-07
+    94 OT SD       0.80E-01    3.2     0.00000130     -1636.7587529430 -1.04E-07
+    95 OT SD       0.80E-01    3.2     0.00000190     -1636.7587530234 -8.04E-08
+    96 OT DIIS     0.80E-01    3.1     0.00000373     -1636.7587529820  4.14E-08
+    97 OT SD       0.80E-01    3.2     0.00000105     -1636.7587531788 -1.97E-07
+    98 OT SD       0.80E-01    3.2     0.00000111     -1636.7587532820 -1.03E-07
+    99 OT DIIS     0.80E-01    3.2     0.00000138     -1636.7587533771 -9.51E-08
+   100 OT DIIS     0.80E-01    3.1     0.00000103     -1636.7587534523 -7.52E-08
+   101 OT DIIS     0.80E-01    3.2     0.00000103     -1636.7587536329 -1.81E-07
+   102 OT DIIS     0.80E-01    3.4     0.00000102     -1636.7587538766 -2.44E-07
+   103 OT DIIS     0.80E-01    3.1     0.00000102     -1636.7587539851 -1.08E-07
+   104 OT DIIS     0.80E-01    3.1     0.00000102     -1636.7587542548 -2.70E-07
+   105 OT DIIS     0.80E-01    3.1     0.00000102     -1636.7587542670 -1.21E-08
+   106 OT SD       0.80E-01    3.2     0.00000102     -1636.7587543506 -8.37E-08
+   107 OT SD       0.80E-01    3.2     0.00000102     -1636.7587544513 -1.01E-07
+   108 OT SD       0.80E-01    3.2     0.00000103     -1636.7587545520 -1.01E-07

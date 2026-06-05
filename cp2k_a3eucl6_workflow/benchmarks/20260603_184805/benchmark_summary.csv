@@ -1,0 +1,7 @@
+np,omp,total_threads,seconds_limit,exit_code,wall_s,steps,avg_step_s_excl_first,last_convergence,last_energy,run_dir
+4,1,4,60,124,61.2,10,4.86,0.00154305,-1627.2810564444,D:\CPL_CAL\cp2k_a3eucl6_workflow\benchmarks\20260603_184805\np4_omp1
+6,1,6,60,124,61.2,15,3.58,0.00075015,-1631.4227879539,D:\CPL_CAL\cp2k_a3eucl6_workflow\benchmarks\20260603_184805\np6_omp1
+8,1,8,60,124,61.1,15,3.44,0.00075015,-1631.4227879539,D:\CPL_CAL\cp2k_a3eucl6_workflow\benchmarks\20260603_184805\np8_omp1
+10,1,10,60,124,61.2,17,3.21,0.00064510,-1632.2126331790,D:\CPL_CAL\cp2k_a3eucl6_workflow\benchmarks\20260603_184805\np10_omp1
+4,2,8,60,124,61.2,15,3.57,0.00075015,-1631.4227879539,D:\CPL_CAL\cp2k_a3eucl6_workflow\benchmarks\20260603_184805\np4_omp2
+6,2,12,60,124,61.2,18,3.05,0.00058209,-1632.3638628565,D:\CPL_CAL\cp2k_a3eucl6_workflow\benchmarks\20260603_184805\np6_omp2

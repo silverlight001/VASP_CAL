@@ -1,0 +1,504 @@
+
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+“orientation average”? 
+- For the MPL measurements, as commented by authors, apart from the surprising same behavior in R and S HMH
+enantiomers, it is really difficult to understand why they reach values compared to “achiral” HMH. Authors should check the
+corresponding achiral Eu HMH. Even more considering that the effect is not enhanced at 4K. 
+Reviewer #3 
+(Remarks to the Author) 
+The luminescence of traditional chiral organic-inorganic hybrid metal halides is strongly decided by the complicated
+coordination environment, thus it is hard to predict their optical properties. In this manuscript, the authors utilized the intrinsic
+fingerprint emission of rare-earth ions to break this limitation, and successfully designed and synthesized the novel chiral
+europium-based halides, (R/S-3BrMBA)3EuCl6, with predictable and strong red circularly polarized luminescence (CPL).
+Particularly, these chiral europium-based halides exhibit both high photoluminescence asymmetry factor and large quantum
+yield, which is crucially needed for the construction of high-performance red CPL emitter. Moreover, the degree of
+photoluminescence polarization in (R/S-3BrMBA)3EuCl6 can be manipulated by the external magnetic field. Most
+importantly, due to the field-generated Zeeman splitting and spin mixing at exciton states, the anomalously positive
+magneto-photoluminescence was observed in these chiral europium-based halides. Overall, this manuscript is well-
+organized and the conclusion is strongly supported by the experimental results and theoretical calculations. Therefore, this
+work is suitable for publication in Nature Communications after the following minor concerns were addressed. 
+1.Chiral hybrid perovskites are known to have the Rashba spin-orbit coupling. The authors talked about the chiral-induced
+spin-orbit coupling in this work. What is the difference of these two? How does the chiral-induced spin-orbit coupling scale
+with the spin selectivity? 
+2.Why does the degree of the PL polarization increase with the decreasing of temperature? 
+3.Why did the authors choose trivalent europium ions among the 17 rare-earth metal ions? 
+4.As shown in Supplementary Table 1, P212121 is a non-centrosymmetric space group, thus the Flack parameter should be
+provided. 
+5.What is the scanning speed, data pitch and D.I.T in the CD and CPL measurements? The experimental details should be
+provided. 
+6.The unmarked characteristic transitions of Eu3+ in the PLE spectrum should be provided. 
+7.In Supplementary Fig. 7, the coordinate scale of UV-Vis absorption spectra is missing. 
+8.In Supplementary Fig. 9, the title of the horizontal axis should be italicized. 
+Version 1: 
+Reviewer comments: 
+Reviewer #1 
+(Remarks to the Author) 
+The authors have addressed all the issues I concerned, therefore, I recommend its acceptance in this journal. 
+Reviewer #2 
+(Remarks to the Author) 
+Authors have addressed the Referees' comments and the manuscript can be accepted for publication. 
+Reviewer #3 
+(Remarks to the Author) 
+We have raised questions regarding PL spectra and structure, and the author has provided detailed point-to-point responses
+to these comments. Therefore, I agree to publish this manuscript in Nature Communications 
+
+
+===== PAGE 3 =====
+Open Access This Peer Review File is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were
+made.
+In cases where reviewers are anonymous, credit should be given to 'Anonymous Referee' and the source.
+The images or other third party material in this Peer Review File are included in the article’s Creative Commons license,
+unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons
+license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
+
+===== PAGE 4 =====
+Replies d_ bVfZVgVbpc T_]]V^dc _W Nature Communications  
+(Manuscript ID: NCOMMS-25-00731)
+(The text in blue lists our actions in response) 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JV`\i d_ JVfZVgVb $/
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+;WX`PZ WgQ`XS [TbPZ WPZXSTa WPdT QTT\ Rc``T\bZg ]\T ]U bWT []ab Pbb`PRbXdT `TaTP`RW b]^XRa X\
+bWT UXTZS ]U [PbT`XPZa aRXT\RT* ?]eTdT`( `T^]`ba ]\ `P`T)TP`bW)QPaTS RWX`PZ [TbPZ WPZXSTa P`T
+abXZZ `P`T* @\ bWXa e]`Y( EXc P\S R])e]`YT`a R]\ScRbTS bWT RWX`PZ Tc`]^Xc[)QPaTS WPZXSTa %H+I)
+/:`D:9&/=c;Z2& Qg [T`VX\V bWT TUUXRXT\b `TS T[XaaX]\ ]U b`XdPZT\b Tc`]^Xc[ X]\a eXbW RWX`PZ
+]`VP\XR RPbX]\a* JWTaT RWX`PZ Tc`]^Xc[)QPaTS WPZXSTa eT`T agabT[PbXRPZZg X\dTabXVPbTS bW`]cVW
+dP`X]ca RWP`PRbT`XhPbX]\a X\RZcSX\V aX\VZT)R`gabPZ N)`Pg SXUU`PRbX]\( KL)LXa PQa]`^bX]\ a^TRb`P(
+RX`RcZP` SXRW`]Xa[( GC( GC=( RX`RcZP`Zg ^]ZP`XhTS Zc[X\TaRT\RT %;GC&( P\S bWT]`TbXRPZ
+RPZRcZPbX]\a* E]bPQZg( %H+I)/:`D:9&/=c;Z2 TfWXQXba bWT WXVWTab `TS ;GC Q`XVWb\Taa P[]\V bWT
+`T^]`bTS RWX`PZ WgQ`XS [TbPZ WPZXSTa* @\ PSSXbX]\( bWT PcbW]`a PZa] R]\ScRbTS X\)ST^bW `TaTP`RW
+]\ bWT [PV\Tb])RWX`]^bXRPZ ^`]^T`bXTa ]U bWTaT RWX`PZ Tc`]^Xc[)QPaTS WPZXSTa bW`]cVW
+X\dTabXVPbX\V bWT STV`TT ]U ^W]b]Zc[X\TaRT\RT ^]ZP`XhPbX]\ Pb Z]e bT[^T`Pbc`T P\S P^^ZgX\V
+bWT TfbT`\PZ [PV\TbXR UXTZS* Ib`XYX\VZg( P\ c\cacPZ ^]aXbXdT [PV\Tb])^W]b]Zc[X\TaRT\RT ePa
+]QaT`dTS* FdT`PZZ( bWXa [P\caR`X^b ^`]dXSTa P\ TUUXRXT\b ab`PbTVg b] STdTZ]^ bWT WXVW)
+^T`U]`[P\RT `TS ;GC [PbT`XPZa P\S aXV\XUXRP\bZg R]\b`XQcbTa b] bWT STdTZ]^[T\b ]U `P`T)TP`bW)
+QPaTS RWX`PZ [TbPZ WPZXSTa* JWT`TU]`T( @ acVVTab b] PRRT^b bWXa e]`Y ]\ EPb* ;][[c\* PUbT`
+[X\]` `TdXaX]\a*
+REPLY: OV g_e\U \Z[V d_ dYR^[ dYV bVfZVgVb W_b YZc-YVb bVT_X^ZdZ_^ d_ _eb bVcVRbTY g_b[, OV
+R\c_ dYR^[ W_b dYV bVfZVgVbpc dZ]V R^U fR\eRS\V T_]]V^dc* RZ]VU Rd Z]`b_fZ^X dYV aeR\Zdi _W
+dYV g_b[, OV YRfV TRbVWe\\i bVfZcVU dYV ]R^ecTbZ`d R^U dYV ce``\V]V^dRbi Z^W_b]RdZ_^, ;V\_g
+RbV _eb bVc`_^cVc d_ dYV T_]]V^dc, OV Y_`V dYRd dYV bVfZcVU fVbcZ_^ ]VVdc dYV YZXY `eS\ZTRdZ_^
+cdR^URbUc _W EPbc`T ;][[c\XRPbX]\a,
+-* >`][ bWT Pa^TRb ]U a^X\ ^WgaXRa( eWPb Xa bWT `TZPbX]\aWX^ ]U bWT TfRWP\VT TUUTRb P\S bWT a^X\)
+ST^T\ST\b RWX`]^bXRPZ ^`]^T`bg8
+REPLY: OV R``bVTZRdV dYV bVfZVgVbpc VhTV\\V^d aeVcdZ_^, A^ c`Z^ `YicZTc* dYV VhTYR^XV VWWVTd*
+R\c_ [^_g^ Rc dYV VhTYR^XV c`\ZddZ^X SVdgVV^ dYV VhTZd_^ cdRdVc* Zc Rcc_TZRdVU gZdY dbR^cZdZ_^
+bRdVc SVdgVV^ dYV], : \RbXV VhTYR^XV c`\ZddZ^X eceR\\i bVce\dc Z^ R \_g dbR^cZdZ_^ bRdV* R^U
+
+
+===== PAGE 5 =====
+dYVbVW_bV R \_^X c`Z^ \ZWVdZ]V 'CPaT` GW]b]\* HTd* 2025* -5* 02./..6(,
+.* JWT PcbW]`a aW]cZS ^`]dXST bWT TfPRb aP[^ZT ^`T^P`PbX]\ R]\SXbX]\a U]` bWT [PV\Tb])GC
+[TPac`T[T\b*
+REPLY: OV g_e\U \Z[V d_ dYR^[ W_b dYV bVfZVgVbpc TRbVWe\ bVRUZ^X _W _eb ]R^ecTbZ`d, A^ dYV
+bVfZcVU ce``\V]V^dRbi Z^W_b]RdZ_^* gV YRfV RUUVU dYV cR]`\V `bV`RbRdZ_^ T_^UZdZ_^ W_b dYV
+]RX^Vd_+HD ]VRcebV]V^d,
+List of the major changes we have made to the revised manuscript and supplementary
+information with yellow highlight:
+E_bV UVdRZ\c RS_ed dYZc Vh`VbZ]V^d R^U dYV cR]`\V `bV`RbRdZ_^ ]VdY_U RbV `b_fZUVU Z^ dYV
+ce``\V]V^dRbi Z^W_b]RdZ_^,
+Temperature-dependent PL polarization measurement under circularly polarized
+photoexcitation: LYV Vh`VbZ]V^d gRc T_^UeTdVU Z^ R YV\Ze]+WbVV T\_cVU+TiT\V Tbi_XV^ZT
+cicdV], HbZ_b d_ dYV ]VRcebV]V^d* c_]V ]ZTb_TbicdR\c VZdYVb 'H+1;bE;:(1>e<\4 _b 'I+
+1;bE;:(1>e<\4 gVbV `\RTVU _^ R `bV+T\VR^VU X\Rcc ceScdbRdV, LYVi gVbV bR^U_]\i UZcdbZSedVU
+R^U V^TR`ce\RdVU Si R dYZ^ dbR^c`RbV^d X\Rcc, LYV cR]`\V gRc WZhVU _^ R T_\U WZ^XVb Z^ dYV
+Tbi_XV^ZT cicdV], :WdVb cVR\Z^X dYV cicdV] R^U `e]`Z^X Zd U_g^ d_ R UVcZbRS\V fRTee] \VfV\*
+dYV V^dZbV cicdV] gRc Z^cVbdVU Z^+SVdgVV^ R `RZb _W V\VTdb_]RX^Vdc gZdY dYV ]RhZ]e] WZV\U
+cdbV^XdYc _W m/ L, ?_b VfVbi UVTbV]V^d _W dYV dV]`VbRdebV Wb_] 1.. C d_ 2 C* dYV ]ZTb_TbicdR\c
+gVbV `Y_d_VhTZdVU Si R 2.3 ^] T_^dZ^eVU gRfV cV]ZT_^UeTd_b \RcVb UZ_UV* gYZ\V dYV \RcVb
+SVR] `RccVU dYb_eXY R `_\RbZjVb W_\\_gVU Si R aeRbdVb+gRfV `\RdV, ?\e_bVcTV^TV c`VTdbR gVbV
+TR`debVU Si R `Y_d_\e]Z^VcTV^TV c`VTdb_]VdVb gZdY R^ Z^dVXbRdVU _`dZTR\ WZSVb 'E_UV\8 @_bZSR
+?\e_b__X+1(,
+/* @b Xa acVVTabTS bWPb bWT PcbW]`a PSS Pb][ ZPQTZa X\ bWT U]`[ ]U a^WT`Ta X\ >XV* -P( a] bWPb bWT
+`TPST`a R]cZS VTb `TZPbTS X\U]`[PbX]\ UPabT` P\S c\ST`abP\S bWT R][^]aXbX]\ ]U bWT RWX`PZ
+Tc`]^Xc[)QPaTS WPZXSTa []`T TPaXZg*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, OV YRfV RUUVU dYV Rd_] \RSV\c _^ dYV c`YVbVc R^U
+e`URdVU ?ZX, /R Z^ dYV bVfZcVU ]R^ecTbZ`d gZdY iV\\_g YZXY\ZXYdc,
+
+
+===== PAGE 6 =====
+List of the major changes we have made to the revised manuscript with yellow highlight:
+Fig. 1 | Material properties for chiral Eu-based halides. 'R( <bicdR\ cdbeTdebVc _W 'H-I+
+1;bE;:(1>e<\4, >e* ;b* <\* <* F* R^U @ RbV bV`bVcV^dVU Si dYV \ZXYd S\eV* Sb_g^* XbVV^* URb[
+XbVi* S\eV* R^U \ZXYd XbVi c`YVbVc* bVc`VTdZfV\i, 'S( >h`VbZ]V^dR\ R^U cZ]e\RdVU HPJ= `RddVb^c
+_W 'H+1;bE;:(1>e<\4, 'T( K>E Z]RXV _W 'H+1;bE;:(1>e<\4 ]ZTb_TbicdR\ R^U >=K ]R``Z^X
+Z]RXVc _W <* >e* R^U <\ UZcdbZSedZ_^, 'U( LReT `\_d d_ UVdVb]Z^V dYV _`dZTR\ SR^UXR`c _W 'H-I+
+1;bE;:(1>e<\4, 'V( LYV TR\Te\RdVU V\VTdb_^ZT SR^U cdbeTdebV _W 'H+1;bE;:(1>e<\4, 'W( LYV
+TR\Te\RdVU H=GK _W 'H+1;bE;:(1>e<\4,
+0* @\ ;< [TPac`T[T\ba( SXS bWT PcbW]`a `]bPbT bWT aP[^ZTa b] `T[]dT bWT R]\b`XQcbX]\ ]U C<
+P\S C:8 =f^T`X[T\bPZ STbPXZa aW]cZS QT STaR`XQTS []`T TfbT\aXdTZg X\ bWT Ic^^ZT[T\bP`g
+@\U]`[PbX]\*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, OV b_dRdVU dYV cR]`\Vc Rd UZWWVbV^d R^X\Vc R^U
+bV]VRcebVU dYV <= c`VTdbR 'Figure R1(, OV YRfV e`URdVU dYV bV]VRcebVU <= c`VTdbR R^U
+RUUVU dYV T_bbVc`_^UZ^X UZcTeccZ_^c Z^ dYV bVfZcVU ]R^ecTbZ`d gZdY iV\\_g YZXY\ZXYd '?ZX, 0V(,
+LYV Vh`VbZ]V^dR\ UVdRZ\c W_b dYV <= ]VRcebV]V^dc gVbV R\c_ RUUVU Z^ dYV bVfZcVU
+ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYd,
+LYV \Z^VRb UZTYb_Zc] 'D=( R^U \Z^VRb SZbVWbZ^XV^TV 'D;( XV^VbR\\i VhZcd Z^ cZ^X\V TbicdR\c _b
+dYZ^ WZ\]c gZdY \RbXV _`dZTR\ R^Zc_db_`i 'A* 9[* ;WT[* I]R* 2016* -/4* /3.449 A* 9[* ;WT[* I]R*
+2022* -00* 00020(, ?_b <= ]VRcebV]V^dc* _eb cR]`\V gRc ]ZhVU gZdY C;b R^U Xb_e^U
+
+
+===== PAGE 7 =====
+e^ZW_b]\i* R^U dYVbV gRc R\]_cd ^_ R^Zc_db_`ZT VWWVTd Z^ dYV `bVccVU `_gUVb `V\\Vd, LYVbVW_bV*
+dYV Z^W\eV^TV _W D= R^U D; cY_e\U SV ^VX\VTdVU, A^ _bUVb d_ WebdYVb T_^WZb] dYZc* gV b_dRdVU dYV
+cR]`\V UebZ^X dYV <= ]VRcebV]V^dc, LYV <= c`VTdbR gVbV R\]_cd cZ]Z\Rb gYV^ b_dRdVU Rd
+UZWWVbV^d R^X\Vc 'Figure R1(* dYec dYV Z^W\eV^TV _W D= R^U D; _^ <= c`VTdbR TR^ SV ^VX\VTdVU,
+Figure R1. LYV <= c`VTdbR _W 'H-I)1;bE;:(1>e<\4 cR]`\V RWdVb b_dRdZ^X Rd UZWWVbV^d R^X\Vc,
+List of the major changes we have made to the revised manuscript and supplementary
+information with yellow highlight:
+LYV ]Zbb_b+ci]]VdbZT <= cZX^R\c Wb_] 023 d_ 4.. ^] WebdYVb T_^WZb] dYV V^R^dZ_]_b`YZT
+^RdebV _W 'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4,
+LYV <= c`VTdbR gVbV _SdRZ^VU _^ R B:K<G B+/5.. <= c`VTdb_]VdVb, LYV ]ZhdebV _W C;b
+`_gUVb R^U 'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4 `_gUVb gVbV ecVU R^U `bVccVU Z^d_
+`V\\Vdc W_b <= ]VRcebV]V^d, LYV cTR^^Z^X c`VVU Zc 3.. ^] ]Z^w/* dYV URdR `ZdTY Zc .,3 ^]* R^U
+=,A,L Zc / cVT,
+
+
+===== PAGE 8 =====
+Fig. 2 | Chiroptical properties for chiral Eu-based halides. 'R( LYV ^_b]R\ZjVU cdVRUi+
+cdRdV HD c`VTdbR _W 'H-I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c e^UVb 243 ^] VhTZdRdZ_^, 'S( LYV <A>
+T_\_b T__bUZ^RdVc UZRXbR] _W 'H-I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c, 'T( LYV LJHD c`VTdbR _W 372
+^] V]ZccZ_^ W_b 'H-I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c e^UVb 243 ^] VhTZdRdZ_^, 'U( LYV HDIQc
+_W 'H-I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c e^UVb 243 ^] VhTZdRdZ_^, 'V( LYV <= c`VTdbR _W 'H-I+
+1;bE;:(1>e<\4, 'W( LYV <HD c`VTdbR _W 'H-I+1;bE;:(1>e<\4,
+1* I^PRTa P`T `T_cX`TS QTbeTT\ ZTbbT`a P\S Q`PRYTba X\ >XV* 0R*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, OV YRfV e`URdVU ?ZX, 2T Z^ dYV bVfZcVU ]R^ecTbZ`d
+gZdY iV\\_g YZXY\ZXYdc,
+
+
+===== PAGE 9 =====
+List of the major changes we have made to the revised manuscript with yellow highlight:
+Fig. 4 | MPL measurements for chiral Eu-based halides. 'R* S( LYV bVce\dc _W EHD W_b dYV
+'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c ]VRcebVU Rd 1.. C, LYV c_\ZU \Z^Vc
+RbV dYV WZddZ^X TebfVc, 'T( LYV cTYV]RdZT UbRgZ^X W_b dYV WZ^V cdbeTdebV _W VhTZd_^ cdRdVc gZdY R^U
+gZdY_ed dYV ]RX^VdZT WZV\U,
+2* @ WPdT \]bXRTS bWPb bWT PcbW]`a caT DGC P\S [PV\Tb])GC PZbT`\PbXdTZg* @b Xa QTbbT` b] caT ]\T
+]U bWT[*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, OV YRfV e`URdVU dYV e^ZW_b] UVcTbZ`dZ_^ oEHDp
+Z^ dYV bVfZcVU ]R^ecTbZ`d R^U ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYdc,
+List of the major changes we have made to the revised manuscript and supplementary
+information with yellow highlight:
+
+
+===== PAGE 10 =====
+Magneto-photoluminescence (MPL) measurements: Before the measurement, the sample 
+was mounted on a cold finger in a closed-cycle cryogenic system. The system was pre-pumped 
+to a low vacuum stage. The system could be placed between a pair of electromagnets with a 
+maximum field strength of 1 T. During MPL measurements, the sample is continuously 
+irradiated by a 405 nm laser diode. The PL spectra are collected via an optical fiber and 
+connected to a photoluminescence spectrometer (Model: Horiba Fluorolog-3).
+Fig. 4 | MPL measurements for chiral Eu-based halides. 'R* S( LYV bVce\dc _W EHD W_b
+dYV 'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c ]VRcebVU Rd 1.. C, LYV c_\ZU
+\Z^Vc RbV dYV WZddZ^X TebfVc, 'T( LYV cTYV]RdZT UbRgZ^X W_b dYV WZ^V cdbeTdebV _W VhTZd_^ cdRdVc
+gZdY R^U gZdY_ed dYV ]RX^VdZT WZV\U,
+
+
+===== PAGE 11 =====
+Supplementary Fig. 20 | MPL measurements at 612 nm and 300 K. The MPL of (R-
+3BrMBA)3EuCl6 (a) and (S-3BrMBA)3EuCl6 (b) at 612 nm and 300 K. 
+Supplementary Fig. 21 | MPL measurements at 591 nm and 4 K. The MPL of (R-
+3BrMBA)3EuCl6 (a) and (S-3BrMBA)3EuCl6 (b) at 591 nm and 4 K. 
+
+
+===== PAGE 12 =====
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JV`\i d_ JVfZVgVb $0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NX\gX EXc Tb PZ* ^`TaT\b P\ X\bT`TabX\V abcSg ]\ RWX`PZ WgQ`XS =c WPZXSTa eXbW ^]bT\bXPZ
+P^^ZXRPbX]\a X\ ^W]b]\XRa* JWT RWP`PRbT`XhPbX]\ Xa R][^ZTbT( Qcb bWT`T P`T aTdT`PZ ^]X\ba bWPb
+\TTS b] QT RZP`XUXTS P\S PSS`TaaTS QTU]`T R]\aXST`X\V bWT [P\caR`X^b U]` ^cQZXRPbX]\6
+REPLY: G^ SVYR\W _W R\\ dYV T_+RedY_bc* gV YZXY\i R``bVTZRdV dYV bVfZVgVbpc dZ]V R^U fR\eRS\V
+ceXXVcdZ_^c _^ dYV VfR\eRdZ_^ _W _eb g_b[, OV UVV`\i dYR^[ dYV bVfZVgVbpc TbZdZTR\ T_]]V^dc
+RZ]VU Rd Z]`b_fZ^X dYV aeR\Zdi _W _eb g_b[, ;V\_g RbV _eb bVc`_^cVc d_ dYV T_]]V^dc, OV Y_`V
+dYRd dYV bVfZcVU fVbcZ_^ ]VVdc dYV `eS\ZTRdZ_^ TbZdVbZR _W EPbc`T ;][[c\XRPbX]\a,
+)-* ;]\aXST`X\V `T^`]ScRXQXZXbg bTaba [TPac`X\V aTdT`PZ R`gabPZa( eWXRW Xa bWT T``]` ]` STdXPbX]\
+]U <G$ X\ >XVc`T /8 9cbW]`a aW]cZS X\RZcST T``]` QP`a P\S `T^`]ScRXQXZXbg U`][ aP[^ZT b]
+aP[^ZT* @\ bWPb aT\aT( W]e R][^P`Ta bWT X\R`TPaT ]U <G Qg P^^ZgX\V [PV\TbXR UXTZS U`][ bWT
+Tf^T`X[T\bPZ T``]`8
+REPLY: LYR^[c W_b dYV bVfZVgVbpc X__U aeVcdZ_^, H\VRcV bVWVb d_ dYV `\_d gZdY dYV Vbb_b SRbc Z^
+Supplementary Fig. 19, OZdY dYV Vbb_b SRbc* dYVi cY_g dYV cR]V dbV^U, HbVfZ_ec\i* gV YRfV
+RU_`dVU dYV cR]V dVTY^ZaeV W_b ]VRcebZ^X dYV `b_d_di`ZTR\ TYZbR\ YiSbZU `Vb_fc[ZdV
+`_\iTbicdR\\Z^V WZ\]c 'H-I+E;:(0HSA2 'DPbT`* ?]`Xh* 2022* 5* 52.(, A^ dYV `bVcV^d cdeUi* dYV
+^Vg\i ci^dYVcZjVU cR]`\Vc RbV Z^ dYV ]ZTb_TbicdR\\Z^V W_b], A^ _bUVb d_ `b_fV dYV
+bV`b_UeTZSZ\Zdi _W dYV cR]`\Vc* gV bVT_bUVU dYVZb U_]Z^R^d W\e_bVcTV^TV `VR[c T_^dZ^e_ec\i Z^
+dYV cgVV`Z^X ]RX^VdZT WZV\Uc Rc dYV dZ]V gV^d _^ 'Figure R2(, LYV cZX^R\c RbV YZXY\i
+bV`b_UeTZS\V,
+
+
+===== PAGE 13 =====
+Supplementary Fig. 19 | Experimental results of the temperature-dependent 
+degree of photoluminescence polarization (DP) without and with a constant in-
+plane magnetic field ( ± 900 mT). The samples are microcrystals, either (R-
+3BrMBA)3EuCl6 or (S-3BrMBA)3EuCl6. 
+Figure R2. LYV T_^dZ^e_ec bVT_bUc _W b__] dV]`VbRdebV `Y_d_\e]Z^VcTV^TV Z^dV^cZdZVc Rd 37/
+^] Z^ cgVV`Z^X ]RX^VdZT WZV\Uc W_b 'H+1;bE;:(1>e<\4* R^U 'I+1;bE;:(1>e<\4 ]ZTb_TbicdR\c,
+List of the major changes we have made to the revised supplementary information with
+yellow highlight:
+
+
+===== PAGE 14 =====
+Supplementary Fig. 19 | Experimental results of the temperature-dependent 
+degree of photoluminescence polarization (DP) without and with a constant in-
+plane magnetic field ( ± 900 mT). The samples are microcrystals, either (R-
+3BrMBA)3EuCl6 or (S-3BrMBA)3EuCl6.
+).* @\ >XVc`T /P( PcbW]`a aW]cZS X\RZcST bWT <G$ dPZcTa [PYX\V P R]]ZX\V)WTPbX\V)R]]ZX\V
+RgRZT b] TdPZcPbT bWT SXa^T`aX]\ ]U bWT SPbP* D]`T]dT`( W]e S] PcbW]`a Tf^ZPX\ bWT ZP`VT
+[Xa[PbRW QTbeTT\ UXbbX\V P\S Tf^T`X[T\bPZ SPbP Pb bT[^T`Pbc`Ta 7 1,B* >]` P []`T PRRc`PbT
+UXbbX\V( Tf^T`X[T\bPZ SPbP ^]X\ba QTbeTT\ 1,B P\S 0B aW]cZS QT PSSTS*
+REPLY: LYR^[c W_b dYV bVfZVgVbpc fR\eRS\V T_]]V^dc, ?_b dYV RS_fV Figures R2 R^U R3* gV
+YRfV cY_g^ dYV `\_dc gZdY dYV Vbb_b SRbc R^U dYV bV`b_UeTZSZ\Zdi _W dYV ]ZTb_TbicdR\c, A^ WRTd*
+`bZ_b d_ dYV dV]`VbRdebV R^U dYV WZV\U UV`V^UV^d <G ]VRcebV]V^d* gV `\RTVU ]R^i ]ZTb_+cZjV
+cZ^X\V TbicdR\c _^ d_` _W R `bV+T\VR^VU X\Rcc ceScdbRdV, LYVi gVbV V^TR`ce\RdVU Si R dYZ^
+dbR^c`RbV^d X\Rcc, LYV cR]`\V gRc WZhVU _^ R T_\U WZ^XVb Z^cZUV R YV\Ze]+WbVV T\_cVU TiT\V
+Tbi_XV^ZT cicdV], OV `VbW_b]VU dYV ]VRcebV]V^d _W dYV bV`b_UeTZSZ\Zdi Si T_^dZ^e_ec\i
+]_^Zd_bZ^X dYV \e]Z^VcTV^TV `VR[ gZdY bVc`VTd d_ dYV dZ]V R^U ]RX^VdZT WZV\U, ?_b VfVbi
+bVUeTdZ_^ _W dYV dV]`VbRdebV* dYV cR]`\Vc e^UVbgV^d dYV T__\Z^X R^U YVRdZ^X cZ]e\dR^V_ec\i Z^
+_bUVb d_ bVRTY dYV dYVb]R\ VaeZ\ZSbZe],
+JVXRbUZ^X dYV ]Zc]RdTY _W dYV WZddZ^X R^U dYV Vh`VbZ]V^dR\ URdR W_b dYV dV]`VbRdebV SV\_g 3.
+C, LYV c_\edZ_^+`b_TVccVU YiSbZU `Vb_fc[ZdVc RbV [^_g^ d_ YRfV dYV c_Wd \RddZTV `b_`Vbdi, LYVi
+RbV \Z[V\i d_ Vh`VbZV^TV TbicdR\\Z^V UVW_b]RdZ_^c* `YRcVc dbR^cZdZ_^c _b V\VTdb_^+`Y_^_^
+T_e`\Z^X SV\_g c_]V TbZdZTR\ dV]`VbRdebVc, LYZc ]Ri \VRU d_ dYV TYR^XV _W dYVZb V\VTdb_^ZT
+cdbeTdebVc Rc gV\\ Rc \e]Z^VcTV^TV `b_`VbdZVc, <_^cVaeV^d\i* dYV UVbZfVU R^R\idZTR\ W_b]e\Rb
+TR^^_d XVd R^ VhdbV]V\i `VbWVTd WZddZ^X Rd fVbi \_g dV]`VbRdebVc, HYicZTR\ ]_UV\c RbV [^_g^ d_
+
+
+===== PAGE 15 =====
+SV UVbZfVU SRcVU _^ `VbWVTd ]_^_TbicdR\c, LYV cR]V `YV^_]V^R YRfV SVV^ bV`_bdVU Z^ TYZbR\
+_bXR^ZT \VRU YR\ZUV `Vb_fc[ZdVc 'A* GWga* ;WT[* CTbb* 2020* --* 64169 EPb* GW]b]\* 2018* -.*
+306(, A^ dY_cV g_b[c* dYV dYV_bVdZTR\ WZddZ^X 'S\eV R^U bVU c_\ZU \Z^Vc( dVb]Z^RdVc Rd 6. C W_b 'H+
+-I+E;:(0HSA2, Ad Zc ^_dVU dYRd d_ YRfV dYV URdR ]VRcebVU Wb_] 1.. C U_g^ d_ 6. C _b 3. C
+cY_e\U SV ceWWZTZV^d d_ XVd dYV ^VRd WZddZ^X, LYV ]_cd TbZdZTR\ `_Z^d _W dYV Vh`VbZ]V^d Zc d_
+aeR^dZWi R^U VcdZ]RdV dYV TYZbR\+Z^UeTVU c`Z^ _bSZd T_e`\Z^X cdbV^XdY,
+JVWVbV^TV8 'A* GWga* ;WT[* CTbb* 2020* --* 6416(
+)/* @\ >XVc`T /Q( PcbW]`a aW]cZS X\RZcST bWT <G$ dPZcTa eXbW]cb [PV\TbXR UXTZS*
+REPLY: LYR^[c W_b dYV bVfZVgVbpc TRbVWe\ bVRUZ^X _^ _eb ]R^ecTbZ`d, A^UVVU* R\\ dYV
+]VRcebV]V^dc Z^ ?ZX, 1 T_]V Wb_] dYV cR]V cVd _W cR]`\Vc, ?ZX, 1R cY_gc dYV dV]`VbRdebV
+UV`V^UV^d <G gZdY_ed ]RX^VdZT WZV\U, OYZ\V* ?ZX, 1S cY_gc dYV dV]`VbRdebV UV`V^UV^d <G
+gZdY dYV R``\ZTRdZ_^ _W dYV ]RX^VdZT WZV\Uc, ?_b dYV XZfV^ TYZbR\ Veb_`Ze] YR\ZUVc ceTY Rc 'H+
+1;bE;:(1>e<\4 ]ZTb_TbicdR\c* <G gZdY jVb_ WZV\U YRc dYV ]RX^ZdeUV SVdgVV^ dY_cV ]VRcebVU
+gZdY ±7.. ]L, L_ WebdYVb T\RbZWi dYV `bVcV^dRdZ_^* gV YRfV RUUVU Ke``\V]V^dRbi ?ZX, /7 Z^
+dYV ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYd,
+List of the major changes we have made to the revised supplementary information with
+yellow highlight:
+
+
+===== PAGE 16 =====
+Supplementary Fig. 19 | Experimental results of the temperature-dependent 
+degree of photoluminescence polarization (DP) without and with a constant in-
+plane magnetic field ( ± 900 mT). The samples are microcrystals, either (R-
+3BrMBA)3EuCl6 or (S-3BrMBA)3EuCl6. 
+)0* IX\RT bWT [PbT`XPZ c\ST`abcSg Xa P ,< WgQ`XS [TbPZ WPZXST %?D?&( eWg X\ T_cPbX]\ 1 bWT`T
+aW]cZS QT X\RZcSTS P\ i]`XT\bPbX]\ PdT`PVTj8
+REPLY: LYR^[c W_b dYV bVfZVgVbpc X__U aeVcdZ_^, LYZc YRc ^_dYZ^X d_ U_ gZdY dYV ]RdVbZR\
+UZ]V^cZ_^R\Zdi, A^ _eb Vh`VbZ]V^d* dYV ci^dYVcZjVU TYZbR\ Veb_`Ze] YR\ZUVc RbV Z^ dYV c_\ZU
+]ZTb_TbicdR\\Z^V W_b], LYV ]RX^Vd_+_`dZTR\ ]VRcebV]V^d Zc VZdYVb ^_d R ]ZTb_R^R\icZc ^_b R
+\_TR\ZjVU ]ZTb_cT_`ZT ]VRcebV]V^d, OV V]`\_iVU R cdR^URbU ]RX^Vd_+_`dZTR\ cVde` W_b dYV
+]VRcebV]V^d _fVb R \RbXV RbVR, LYV cR]`\V T_^dRZ^c ]R^i ]ZTb_TbicdR\c R^U dYVi gVbV
+V^TR`ce\RdVU Z^cZUV R Tbi_XV^ZT fRTee] cicdV], KdbZTd\i c`VR[Z^X* dYV _bZV^dRdZ_^ RfVbRXV
+^VVUc d_ SV T_^cZUVbVU, LYV cR]V dYZ^X gRc R``\ZVU W_b `_\iTbicdR\\Z^V TYZbR\ `Vb_fc[ZdVc gZdY
+]R^i bR^U_]\i _bZV^dVU XbRZ^c, H\VRcV bVWVb d_ HR^* J,* Tb PZ* ERX^VdZT+WZV\U ]R^Z`e\RdZ_^ _W
+TZbTe\Rb\i `_\RbZjVU `Y_d_\e]Z^VcTV^TV Z^ TYZbR\ `Vb_fc[ZdVc 'DPbT`* ?]`Xh* 2022* 5* 52.( W_b
+]_bV Z^W_b]RdZ_^,
+)1* >]` bWT DGC [TPac`T[T\ba( Pa R][[T\bTS Qg PcbW]`a( P^P`b U`][ bWT ac`^`XaX\V aP[T
+QTWPdX]` X\ H P\S I ?D? T\P\bX][T`a( Xb Xa `TPZZg SXUUXRcZb b] c\ST`abP\S eWg bWTg `TPRW dPZcTa
+R][^P`TS b] iPRWX`PZj ?D?* 9cbW]`a aW]cZS RWTRY bWT R]``Ta^]\SX\V PRWX`PZ =c ?D?* =dT\
+[]`T R]\aXST`X\V bWPb bWT TUUTRb Xa \]b T\WP\RTS Pb 0B*
+REPLY: ER^i dYR^[c W_b dYZc Z]`_bdR^d aeVcdZ_^, =ZWWVbV^d Wb_] dYV T_^fV^dZ_^R\ TYZbR\
+_bXR^ZT \VRU YR\ZUV `Vb_fc[ZdVc* Z^UVVU gV TR^^_d XVd dYV RTYZbR\ >e YiSbZU ]VdR\ YR\ZUV
+
+
+===== PAGE 17 =====
+]ZTb_TbicdR\c VRcZ\i Z^ dYV TbicdR\\Z^V Xb_gdY, OV cec`VTd dYV ]RZ^ bVRc_^ cY_e\U SV RcTbZSVU
+d_ dYV ^RdebR\ WRf_bZdV W_b dYV TYZbR\Zdi* VZdYVb dYV \VWd+ _b bZXYd+ YR^UVU^Vcc, OV YRfV TYVT[VU
+c_]V bVTV^d `R`Vbc RS_ed dYV bRbV+VRbdY ]VdR\ YR\ZUVc '9\VTe* ;WT[* @\b* =S* 2024* 2/*
+V0.02.15059 IRX* ;WX\P ;WT[* 2024* 23( /74/(, LYVcV g_b[c _^ TYZbR\ TVbZe]+SRcVU ]VdR\
+YR\ZUVc R\c_ UZU^pd bV`_bd dYV RTYZbR\ bRTV]ZT cdbeTdebVc, OV RbV We\\i RXbVVU gZdY dYV bVfZVgVb&c
+_`Z^Z_^ R^U R\c_ bVT_X^ZjV dYV Z]`_bdR^TV _W dYZc ZcceV, OV YRfV bV]_fVU dYV g_bU oRTYZbR\p
+Wb_] dYV T_bbVc`_^UZ^X cVTdZ_^ Z^ dYV bVfZcVU ]R^ecTbZ`d, LYV UVcTbZ`dZ_^ YRc R\c_ SVV^ e`URdVU
+Z^ dYV bVfZcVU ]R^ecTbZ`d gZdY iV\\_g YZXY\ZXYd,
+LYV ]RX^ZdeUV _W dYV ]RX^Vd_+HD Zc Rcc_TZRdVU gZdY dYV Z^c`VTdZ_^ _W dYV W\e_bVcTV^TV Z^dV^cZdi
+Z^ R cgVV`Z^X ]RX^VdZT WZV\U, @_gVfVb* ]R^i \_g UZ]V^cZ_^R\ bRbV+VRbdY YR\ZUVc RbV [^_g^ d_
+YRfV dYV R^dZ+dYVb]R\ aeV^TYZ^X SVYRfZ_bc W_b c_]V V]ZccZfV `VR[c, LYV dV]`VbRdebV YRc fVbi
+gVR[ Z^W\eV^TV _^ dYV W\e_bVcTV^TV Z^dV^cZdi '@\]`V* ;WT[* 2024* 2/* 0/6./9 I[PZZ Ib`cRb* 2024*
+1* 02...74(, LYZc `YV^_]V^_^ Zc `bZ]RbZ\i UeV d_ ^_^+bVc_^R^d SRbbZVb VhTZdRdZ_^c W_b \_g
+UZ]V^cZ_^R\ bRbV+VRbdY YR\ZUVc, LYV gZUV _`dZTR\ SRbbZVb Zc VhTZdVU R\_^XcZUV dYV aeR^de] gV\\
+W_b dYV \_g UZ]V^cZ_^R\ bRbV+VRbdY YR\ZUVc, LYVbVW_bV* RUUZdZ_^R\ TRbbZVbc UeV d_ dYV dYVb]R\
+VhTZdRdZ_^ Rd YZXYVb dV]`VbRdebVc RbV \_cd d_ ^_^bRUZRdZfV `b_TVccVc,
+List of the major changes we have made to the revised manuscript with yellow highlight:
+A^ WRTd* dYZc Zc T_]`RbRS\V d_ dYV dbRUZdZ_^R\ YiSbZU ]VdR\ YR\ZUVc _W 'H>:(0HSA2 ]VRcebVU e^UVb
+dYV cR]V ]RX^VdZT WZV\U Rd /3 C,
+HRbdZTe\Rb\i* dYVi VhYZSZd R^ e^eceR\ `_cZdZfV ]RX^VdZT WZV\U VWWVTd _W n1% Rd b__] dV]`VbRdebV*
+gYZTY Zc T_]`RbRS\V d_ dYV dbRUZdZ_^R\ YiSbZU ]VdR\ YR\ZUV _W 'H>:(0HSA2 ]VRcebVU e^UVb dYV
+cR]V ]RX^VdZT WZV\U Rd /3 C,
+
+
+===== PAGE 18 =====
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JV`\i d_ JVfZVgVb $1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JWT Zc[X\TaRT\RT ]U b`PSXbX]\PZ RWX`PZ ]`VP\XR)X\]`VP\XR WgQ`XS [TbPZ WPZXSTa Xa ab`]\VZg
+STRXSTS Qg bWT R][^ZXRPbTS R]]`SX\PbX]\ T\dX`]\[T\b( bWca Xb Xa WP`S b] ^`TSXRb bWTX` ]^bXRPZ
+^`]^T`bXTa* @\ bWXa [P\caR`X^b( bWT PcbW]`a cbXZXhTS bWT X\b`X\aXR UX\VT`^`X\b T[XaaX]\ ]U `P`T)
+TP`bW X]\a b] Q`TPY bWXa ZX[XbPbX]\( P\S acRRTaaUcZZg STaXV\TS P\S ag\bWTaXhTS bWT \]dTZ RWX`PZ
+Tc`]^Xc[)QPaTS WPZXSTa( %H+I)/:`D:9&/=c;Z2( eXbW ^`TSXRbPQZT P\S ab`]\V `TS RX`RcZP`Zg
+^]ZP`XhTS Zc[X\TaRT\RT %;GC&* GP`bXRcZP`Zg( bWTaT RWX`PZ Tc`]^Xc[)QPaTS WPZXSTa TfWXQXb Q]bW
+WXVW ^W]b]Zc[X\TaRT\RT Pag[[Tb`g UPRb]` P\S ZP`VT _cP\bc[ gXTZS( eWXRW Xa R`cRXPZZg \TTSTS
+U]` bWT R]\ab`cRbX]\ ]U WXVW)^T`U]`[P\RT `TS ;GC T[XbbT`* D]`T]dT`( bWT STV`TT ]U
+^W]b]Zc[X\TaRT\RT ^]ZP`XhPbX]\ X\ %H+I)/:`D:9&/=c;Z2 RP\ QT [P\X^cZPbTS Qg bWT TfbT`\PZ
+[PV\TbXR UXTZS* D]ab X[^]`bP\bZg( ScT b] bWT UXTZS)VT\T`PbTS OTT[P\ a^ZXbbX\V P\S a^X\ [XfX\V
+Pb TfRXb]\ abPbTa( bWT P\][PZ]caZg ^]aXbXdT [PV\Tb])^W]b]Zc[X\TaRT\RT ePa ]QaT`dTS X\ bWTaT
+RWX`PZ Tc`]^Xc[)QPaTS WPZXSTa* FdT`PZZ( bWXa [P\caR`X^b Xa eTZZ)]`VP\XhTS P\S bWT R]\RZcaX]\
+Xa ab`]\VZg ac^^]`bTS Qg bWT Tf^T`X[T\bPZ `TacZba P\S bWT]`TbXRPZ RPZRcZPbX]\a* JWT`TU]`T( bWXa
+e]`Y Xa acXbPQZT U]` ^cQZXRPbX]\ X\ EPbc`T ;][[c\XRPbX]\a PUbT` bWT U]ZZ]eX\V [X\]` R]\RT`\a
+eT`T PSS`TaaTS*
+REPLY: OV g_e\U \Z[V d_ UVV`\i dYR^[ dYV bVfZVgVb W_b YZc-YVb bVT_X^ZdZ_^ d_ _eb bVcVRbTY
+g_b[, OV R\c_ dYR^[ W_b dYV bVfZVgVbpc dZ]V R^U fR\eRS\V T_]]V^dc* RZ]VU Rd Z]`b_fZ^X dYV
+aeR\Zdi _W dYV g_b[, OV YRfV TRbVWe\\i bVfZcVU S_dY dYV ]R^ecTbZ`d R^U dYV ce``\V]V^dRbi
+Z^W_b]RdZ_^, ;V\_g RbV _eb bVc`_^cVc d_ dYV T_]]V^dc, OV Y_`V dYRd dYV bVfZcVU fVbcZ_^ T_e\U
+]VVd dYV YZXY `eS\ZTRdZ_^ cdR^URbUc _W EPbc`T ;][[c\XRPbX]\a,
+-*;WX`PZ WgQ`XS ^T`]daYXbTa P`T Y\]e\ b] WPdT bWT HPaWQP a^X\)]`QXb R]c^ZX\V* JWT PcbW]`a
+bPZYTS PQ]cb bWT RWX`PZ)X\ScRTS a^X\)]`QXb R]c^ZX\V X\ bWXa e]`Y* MWPb Xa bWT SXUUT`T\RT ]U bWTaT
+be]8 ?]e S]Ta bWT RWX`PZ)X\ScRTS a^X\)]`QXb R]c^ZX\V aRPZT eXbW bWT a^X\ aTZTRbXdXbg8
+REPLY: LYR^[c W_b dYV bVfZVgVbpc X__U aeVcdZ_^, LYV HPaWQP c`Z^+_bSZd T_e`\Z^X _bZXZ^RdVc
+Wb_] dYV TbicdR\\Z^V cdbeTdebV Z^fVbcZ_^ ci]]Vdbi SbVR[Z^X, Ad R``VRbc Z^ RTYZbR\ `Vb_fc[ZdVc Rc
+gV\\* \VRUZ^X d_ dYV UVXV^VbRdVU SR^U c`\ZddZ^X, BeUXZ^X Wb_] dYV UVbZfVU @R]Z\d_^ZR^ Z^
+\ZdVbRdebVc 'G`]R* EPbZ* 9RPS* IRX* K*I*9* 2014* ---* 47..(* R^U dYV c`Z^+UV`V^UV^d V^VbXi
+]Z^Z]R \_TRdV Rd dYV dg_ UZWWVbV^d bZ^Xc gZdY dg_ UZWWVbV^d c`Z^ _bZV^dRdZ_^c, OYZ\V dYV TYZbR\+
+Z^UeTVU c`Z^ _bSZd T_e`\Z^X cdV]c Wb_] dYV T_e`\Z^X _W R TRbbZVbpc c`Z^ R^Xe\Rb ]_]V^de] gZdY
+R^ VWWVTdZfV _bSZdR\ R^Xe\Rb ]_]V^de] _W dYV TYZbR\ cdbeTdebV R\_^X R TVbdRZ^ RhZc, KeTY VWWVTd
+_TTebc W_b TYZbR\ ]RdVbZR\c _^\i, LYV Z^UeTVU UVXV^VbRdVU c`Z^ ceS+SR^Uc YRfV V^VbXi ]Z^Z]R
+
+
+===== PAGE 19 =====
+Rd TVbdRZ^ ^_^+jVb_ Y+fVTd_bc, LYV TYR^XV _W dYV YV\ZTZdi \VRUc d_ dYV c`Z^ ceS+SR^U cgZdTY 'A*
+GWga* ;WT[* CTbb* 2020* --* 6416(, LYV TYZbR\+Z^UeTVU c`Z^+_bSZd T_e`\Z^X cdbV^XdY cTR\Vc e`
+gZdY dYV c`Z^ cV\VTdZfZdi,
+.*MWg S]Ta bWT STV`TT ]U bWT GC ^]ZP`XhPbX]\ X\R`TPaT eXbW bWT STR`TPaX\V ]U bT[^T`Pbc`T8
+REPLY: LYR^[c W_b dYV bVfZVgVbpc fR\eRS\V T_]]V^d, KZ^TV dYV `Y_d_\e]Z^VcTV^TV Zc
+Rcc_TZRdVU gZdY dYV c`Z^+UV`V^UV^d VhTZd_^ cdRdVc _W dYV `Vb_fc[ZdVc* dYV UVTbVRcV _W dYV
+dV]`VbRdebV XZfVc bZcV d_ dYV V\VfRdZ_^ _W dYV c`Z^ T_YVbV^TV, LYV bVUeTVU dV]`VbRdebV
+ce``bVccVc dYV dYVb]R\ UZcdebSR^TV, LYVbVW_bV* dYV HD `_\RbZjRdZ_^ Zc Z^TbVRcVU gZdY dYV
+UVTbVRcZ^X _W dV]`VbRdebV,
+/*MWg SXS bWT PcbW]`a RW]]aT b`XdPZT\b Tc`]^Xc[ X]\a P[]\V bWT -3 `P`T)TP`bW [TbPZ X]\a8
+REPLY: LYR^[ i_e fVbi ]eTY W_b dYV fR\eRS\V T_]]V^d,
+>hZcdZ^X bVU TZbTe\Rb\i `_\RbZjVU \e]Z^VcTV^TV '<HD( V]ZddVbc Z^ TYZbR\ YiSbZU ]VdR\ YR\ZUVc
+TR^ YRbU\i ]VVd dYV bVaeZbV]V^dc _W S_dY `bVUZTdRS\V \e]Z^VcTV^d T_\_b R^U YZXY `VbW_b]R^TV*
+gYZTY YZ^UVbc dYVZb `bRTdZTR\ R``\ZTRdZ_^c, A^ dYZc g_b[* gV RZ] d_ RUUbVcc dYZc ZcceV Si
+UVfV\_`Z^X R ]_bV VWWZTZV^d R^U T_^fV^ZV^d cdbRdVXi d_ T_^cdbeTd dYV ^_fV\ TYZbR\ YiSbZU ]VdR\
+YR\ZUVc gZdY bVU <HD,
+JRbV+VRbdY ]RdVbZR\c gZdY U+U dbR^cZdZ_^c YRfV VhTV\\V^d \e]Z^VcTV^d `b_`VbdZVc R^U e^ZaeV \Z^V+
+\Z[V WZ^XVb`bZ^d V]ZccZ_^ ';WT[ 2019* 1* 1.369 ;WT[* I]R* HTd* 2020( 05* //.7(, @_gVfVb*
+dYVbV RbV WVg Z_^c gZdY cdb_^X bVU V]ZccZ_^ Z^ dYV bRbV+VRbdY WR]Z\i, <_]`RbVU d_ dbZfR\V^d
+cR]RbZe] Z_^c 'K]1)( gZdY bVU V]ZccZ_^* dbZfR\V^d Veb_`Ze] Z_^c '>e1)( Rc dYV _edcdR^UZ^X bVU
+\e]Z^VcTV^d TV^dVb T_e\U VhYZSZd S_dY \RbXVb aeR^de] iZV\U R^U YZXYVb T_\_b `ebZdi* gYZTY YRfV
+`b_]_dVU dYV bR`ZU UVfV\_`]V^d _W T_\_b dV\VfZcZ_^c* c_\ZU+cdRdV \ZXYdZ^X* R^U R^dZT_e^dVbWVZdZ^X
+Z^[c 'EPb* HTd* ;WT[* 2021* 1* /.79 ;WT[* HTd* 2022* -..* 33/79 I[PZZ Ib`cRb* 2024* 1*
+02...74(, LYVbVW_bV* dbZfR\V^d Veb_`Ze] Z_^c RbV dYV `bVWVbbVU TY_ZTV d_ T_^cdbeTd dYV TYZbR\
+YiSbZU ]VdR\ YR\ZUVc gZdY bVU <HD Z^ dYV bRbV+VRbdY WR]Z\i,
+0*9a aW]e\ X\ Ic^^ZT[T\bP`g JPQZT -( G.-.-.- Xa P \]\)RT\b`]ag[[Tb`XR a^PRT V`]c^( bWca bWT
+>ZPRY ^P`P[TbT` aW]cZS QT ^`]dXSTS*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, LYV ?\RT[ `RbR]VdVbc gVbV RUUVU d_
+Ke``\V]V^dRbi LRS\V / Z^ dYV bVfZcVU ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYd,
+List of the major changes we have made to the supplementary information with yellow
+highlight:
+
+
+===== PAGE 20 =====
+Supplementary Table 1. LYV TbicdR\ URdR _W 'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4,
+Name 
+(R-3BrMBA)3EuCl6
+(S-3BrMBA)3EuCl6
+Empirical formula 
+C24H33Br3N3EuCl6
+C24H33Br3N3EuCl6
+Formula weight (g/mol) 
+967.92 
+967.92 
+Temperature (K) 
+100.00(10) 
+100.00(10) 
+Crystal system 
+Orthorhombic 
+Orthorhombic 
+Space group 
+P212121
+P212121
+a (Å) 
+7.6546(2) 
+7.6510(2) 
+b (Å)
+14.6206(5) 
+14.6533(4) 
+c (Å)
+31.5842(9) 
+31.5797(8) 
+p (°)
+90 
+90 
+q (°)
+90 
+90 
+r (°)
+90 
+90 
+Z 
+4 
+4 
+Volume (Å3) 
+3534.74(18) 
+3540.48(16) 
+Flack parameter 
+-0.010(5) 
+-0.001(5) 
+1*MWPb Xa bWT aRP\\X\V a^TTS( SPbP ^XbRW P\S <*@*J X\ bWT ;< P\S ;GC [TPac`T[T\ba8 JWT
+Tf^T`X[T\bPZ STbPXZa aW]cZS QT ^`]dXSTS*
+REPLY: LYR^[c W_b i_eb fR\eRS\V ceXXVcdZ_^, OV YRfV RUUVU dYV Vh`VbZ]V^dR\ UVdRZ\c W_b S_dY
+<= R^U <HD ]VRcebV]V^dc Z^ dYV bVfZcVU ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYdc,
+List of the major changes we have made to the revised supplementary information with
+yellow highlight:
+LYV <= c`VTdbR gVbV _SdRZ^VU _^ R B:K<G B+/5.. <= c`VTdb_]VdVb, LYV ]ZhdebV _W C;b
+`_gUVb R^U 'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4 `_gUVb gVbV ecVU R^U `bVccVU Z^d_
+`V\\Vdc W_b <= ]VRcebV]V^d, LYV cTR^^Z^X c`VVU Zc 3.. ^] ]Z^w/* dYV URdR `ZdTY Zc .,3 ^]* R^U
+=,A,L Zc / cVT,
+LYV <HD c`VTdbR gVbV T_^UeTdVU _^ R B:K<G <HD+1.. c`VTdb_]VdVb, LYV ]ZhdebV _W C;b
+`_gUVb R^U 'H+1;bE;:(1>e<\4 R^U 'I+1;bE;:(1>e<\4 `_gUVb gVbV ecVU R^U `bVccVU Z^d_
+`V\\Vdc W_b <HD ]VRcebV]V^d, LYV cTR^^Z^X c`VVU Zc 3.. ^] ]Z^w/* dYV URdR `ZdTY Zc .,3 ^]*
+R^U =,A,L Zc / cVT,
+2*JWT c\[P`YTS RWP`PRbT`XabXR b`P\aXbX]\a ]U =c/' X\ bWT GC= a^TRb`c[ aW]cZS QT ^`]dXSTS*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, OV YRfV RUUVU dYV TYRbRTdVbZcdZT dbR^cZdZ_^c _W
+>e1) d_ dYV HD> c`VTdbR R^U e`URdVU Ke``\V]V^dRbi ?ZXc, // R^U /0 Z^ dYV bVfZcVU
+
+
+===== PAGE 21 =====
+ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYdc,
+List of the major changes we have made to the revised supplementary information with
+yellow highlight:
+Supplementary Fig. 11 | PLE spectra of (R-3BrMBA)3EuCl6. The normalized 
+excitation spectra of (R-3BrMBA)3EuCl6 were recorded under different emission peaks.
+Supplementary Fig. 12 | PLE spectra of (S-3BrMBA)3EuCl6. The normalized 
+excitation spectra of (S-3BrMBA)3EuCl6 were recorded under different emission peaks.
+3*@\ Ic^^ZT[T\bP`g >XV* 3( bWT R]]`SX\PbT aRPZT ]U KL)LXa PQa]`^bX]\ a^TRb`P Xa [XaaX\V*
+REPLY: LYR^[c W_b dYV fR\eRS\V ceXXVcdZ_^, OV YRfV e`URdVU Ke``\V]V^dRbi ?ZX, 5 Z^ dYV
+bVfZcVU ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYd,
+
+
+===== PAGE 22 =====
+List of the major changes we have made to the revised supplementary information with
+yellow highlight:
+Supplementary Fig. 7 | UV-Vis absorption spectra for chiral europium halides. 
+The normalized UV-Vis absorption spectra of (R/S-3BrMBA)3EuCl6.
+4*@\ Ic^^ZT[T\bP`g >XV* 5( bWT bXbZT ]U bWT W]`Xh]\bPZ PfXa aW]cZS QT XbPZXRXhTS*
+REPLY: LYR^[c W_b i_eb fR\eRS\V ceXXVcdZ_^, OV YRfV e`URdVU Ke``\V]V^dRbi ?ZX, 7 Z^ dYV
+bVfZcVU ce``\V]V^dRbi Z^W_b]RdZ_^ gZdY iV\\_g YZXY\ZXYd,
+List of the major changes we have made to the revised supplementary information with
+yellow highlight:
+Supplementary Fig. 9 | The PDOS diagrams of all elements in (R-3BrMBA)3EuCl6. 

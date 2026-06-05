@@ -1,0 +1,552 @@
+1 
+ 
+Supplementary Information for 
+Chiral Europium Halides with High-Performance Magnetic Field 
+Tunable Red Circularly Polarized Luminescence at Room Temperature 
+ 
+Xinyi Niu,1,+ Yang Li,2,3,+ Haolin Lu,1 Zhaoyu Wang,1 Yunxin Zhang,1 Tianyin Shao,1 Hebin Wang,1 Sehrish Gull,1 Bing 
+Sun,4 Hao-Li Zhang,4 Yongsheng Chen,5,6 Kai Wang,2,3,* Yaping Du,1,* and Guankui Long1,* 
+ 
+1Tianjin Key Lab for Rare Earth Materials and Applications, School of Materials Science and Engineering, National Institute 
+for Advanced Materials, Nankai University, Tianjin, 300350, China 
+2Key Laboratory of Luminescence and Optical Information, Ministry of Education, School of Physical Science and 
+Engineering, Beijing Jiaotong University, Beijing, 100044, China 
+3Institute of Optoelectronics Technology, Beijing Jiaotong University, Beijing, 100044, China 
+4State Key Laboratory of Applied Organic Chemistry (SKLAOC), College of Chemistry and Chemical Engineering, Lanzhou 
+University, Lanzhou, 730000, China 
+5State Key Laboratory and Institute of Elemento-Organic Chemistry, Frontiers Science Center for New Organic Matter, Nankai 
+University, Tianjin, 300071, China 
+6The Centre of Nanoscale Science and Technology and Key Laboratory of Functional Polymer Materials, College of Chemistry, 
+Nankai University, Tianjin, 300071, China 
++These authors contributed equally to this work 
+*Email: kaiwang@bjtu.edu.cn (K.W.), ypdu@nankai.edu.cn (Y.D.) and longgk09@nankai.edu.cn (G.L.) 
+ 
+ 
+The PDF file includes:  
+ 
+Supplementary Fig. 1 to 22  
+Supplementary Table 1 to 2  
+Supplementary references 
+ 
+ 
+
+2 
+ 
+Supplementary Figures 
+(R-3BrMBA)3EuCl6 
+ 
+(S-3BrMBA)3EuCl6 
+ 
+Supplementary Fig. 1 | Post-refinement analysis for missing symmetry using PLATON’s ADDSYM 
+tool on isolated inorganic frameworks in (R/S-3BrMBA)3EuCl6. All the C, H, and N atoms were 
+manually deleted from the fully refined structure using the CrystalMaker software. The remaining 
+europium halide framework is exported into a CIF file for PLATON symmetry analysis. Default values 
+of angle criterium (i.e., 0.3° for lattice metrical symmetry) and distance criterium (i.e., 0.25 Å for 
+coinciding atoms for rotational, inversion, and translational symmetry elements) were used in the 
+symmetry search. There is no change from the original P212121 space group. 
+ 
+
+3 
+ 
+ 
+Supplementary Fig. 2 | The powder X-ray diffraction (PXRD) patterns of (S-3BrMBA)3EuCl6. The 
+blue line is the experimental results, and the black line is the corresponding simulated results from the 
+crystal structure. 
+ 
+ 
+ 
+
+4 
+ 
+ 
+Supplementary Fig. 3 | Scanning electron microscopy (SEM) and energy dispersive spectrometer 
+(EDS) mapping images for (S-3BrMBA)3EuCl6. SEM image of (S-3BrMBA)3EuCl6 microcrystal and 
+EDS mapping images of C (red), Eu (yellow), and Cl (blue) distribution.  
+ 
+ 
+ 
+
+5 
+ 
+ 
+ 
+ 
+ 
+Supplementary Fig. 4 | X-ray photoelectron spectroscopy (XPS) survey spectra for chiral europium 
+halides. The XPS survey spectra of (R-3BrMBA)3EuCl6 (black) and (S-3BrMBA)3EuCl6 (red). 
+ 
+ 
+ 
+
+6 
+ 
+ 
+ 
+ 
+Supplementary Fig. 5 | XPS spectra of elements in chiral europium halides. The XPS spectra of C 1s 
+(a), N 1s (b), Eu 3d (c), and Cl 2p (d) in (R-3BrMBA)3EuCl6 and (S-3BrMBA)3EuCl6. 
+ 
+ 
+
+7 
+ 
+ 
+Supplementary Fig. 6 | Thermal stability for chiral europium halides. The thermogravimetric analysis 
+(TGA) curve of (S-3BrMBA)3EuCl6. 
+ 
+ 
+
+8 
+ 
+ 
+ 
+Supplementary Fig. 7 | UV-Vis absorption spectra for chiral europium halides. The normalized UV-
+Vis absorption spectra of (R-3BrMBA)3EuCl6 (black) and (S-3BrMBA)3EuCl6 (red). 
+ 
+ 
+ 
+
+9 
+ 
+ 
+ 
+Supplementary Fig. 8 | Absorption spectra and the corresponding circular dichroism (CD) spectra 
+of R/S-3BrMBA. (a) The absorption spectra and (b) CD spectra of R-3BrMBA (black) and S-3BrMBA 
+(red). 
+ 
+ 
+
+10 
+ 
+ 
+ 
+Supplementary Fig. 9 | The projected density of states (PDOS) diagrams of all elements in (R-
+3BrMBA)3EuCl6. 
+ 
+ 
+
+11 
+ 
+ 
+ 
+ 
+Supplementary Fig. 10 | The (R/S-3BrMBA)3EuCl6 crystals under daylight (top) and UV light 
+(bottom). 
+ 
+ 
+
+12 
+ 
+ 
+ 
+Supplementary Fig. 11 | Photoluminescence excitation (PLE) spectra of (R-3BrMBA)3EuCl6. The 
+normalized PLE spectra of (R-3BrMBA)3EuCl6 were recorded under different emission peaks. The red, 
+blue, green, and purple lines represent PLE spectra under different emission peaks at 594, 614, 654 and 
+704 nm, respectively.  
+ 
+
+13 
+ 
+ 
+Supplementary Fig. 12 | PLE spectra of (S-3BrMBA)3EuCl6. The normalized PLE spectra of (S-
+3BrMBA)3EuCl6 were recorded under different emission peaks. The red, blue, green, and purple lines 
+represent PLE spectra under different emission peaks at 594, 614, 654 and 704 nm, respectively. 
+  
+ 
+
+14 
+ 
+ 
+ 
+ 
+Supplementary Fig. 13 | Time-resolved photoluminescence (TRPL) spectra at different emission 
+peaks for chiral europium halides under 465 nm excitation. The PL lifetime (τ) of (R-3BrMBA)3EuCl6 
+(a) and (S-3BrMBA)3EuCl6 (b) at different emission peaks. The blue, purple and yellow dots represent 
+TRPL spectra under different emission peaks at 614, 654 and 704 nm, respectively.  
+ 
+ 
+ 
+
+15 
+ 
+ 
+Supplementary Fig. 14 | PLQY measurements for chiral europium halides. The PLQYs of (R-
+3BrMBA)3EuCl6 (a) and (S-3BrMBA)3EuCl6 (b) under 465 nm excitation. 
+ 
+ 
+
+16 
+ 
+ 
+ 
+Supplementary Fig. 15 | Vibrational circular dichroism (VCD) spectra and the corresponding 
+infrared (IR) spectra for chiral europium halides. Experimentally measured VCD and IR spectra for 
+(R-3BrMBA)3EuCl6 (black) and (S-3BrMBA)3EuCl6 (red). 
+ 
+ 
+ 
+
+17 
+ 
+600
+630
+660
+690
+0
+3
+6
+9
+12
+ (R-3-fluoropyrrolidinium)3MnBr3
+ (R-3-quinuclidinol)MnBr3 Polycrystalline
+ S-(3-hydroxypiperidine)MnCl3
+ R-(3-methylpiperidine)MnCl3
+ (R-3-aminopyrrolidine dihydrochloride)6(Mn3Cl12)(Cl)6
+ (R-1,2-diaminopropane dihydrochloride)3(Mn3Cl12)
+ (R-3BrMBA)3EuCl6
+ the phosphonium-passivated R/S-(PEAxNEA1-x)2MAn-1PbnI3n+1
+ (D)-(tert-butyl prolinate)MnCl3
+ (R-2-amino-1-propanol)MnBr3 Polycrystalline
+ (R-3-hydroxypiperidinium)MnBr3 Polycrystalline
+FOM (*10−3)
+Wavelength (nm)
+(R-3BrMBA)3EuCl6
+ 
+Supplementary Fig. 16 | Efficient red emission of chiral europium halides. Comparison between the 
+emission wavelength and the figure of merit (FOM) of chiral metal halides with red emission reported in 
+literatures and this work. 
+ 
+ 
+
+18 
+ 
+ 
+500
+1000
+1500
+2000
+2500
+0
+3
+6
+9
+12
+R-(3-methylpiperidine)MnCl3
+(R-3-amimo-1-propanol)MnBr3 Polycrystalline
+S-(3-hydroxypiperidine)MnCl3
+(R-3-aminopyrrolidine dihydrochloride)6(Mn3Cl12)(Cl)6
+(R-1,2-diaminopropane dihydrochloride)3(Mn3Cl12)
+(R-3-hydroxypiperidinium)MnBr3 Polycrystalline 
+(D)-(tert-butyl prolinate)MnCl3
+(R-3-quinuclidinol)MnBr3 Polycrystalline
+(R-3BrMBA)3EuCl6
+FOM (*10−3)
+PL lifetime (μs)
+ 
+Supplementary Fig. 17 | The long lifetime of chiral europium halides. Comparison between the PL 
+lifetime and the figure of merit (FOM) of chiral metal halides with red emission reported in literatures 
+and this work. 
+ 
+
+19 
+ 
+0
+30
+60
+90
+0
+3
+6
+9
+12
+(R-3BrMBA)3EuCl6
+ (R-3-fluoropyrrolidinium)3MnBr3
+ (R-3-quinuclidinol)MnBr3 Polycrystalline
+ S-(3-hydroxypiperidine)MnCl3
+ R-(3-methylpiperidine)MnCl3
+ (R-3-aminopyrrolidine dihydrochloride)6(Mn3Cl12)(Cl)6
+ (R-1,2-diaminopropane dihydrochloride)3(Mn3Cl12)
+ (R-3BrMBA)3EuCl6
+ the phosphonium-passivated R/S-(PEAxNEA1-x)2MAn-1PbnI3n+1
+ (D)-(tert-butyl prolinate)MnCl3
+ (R-2-amino-1-propanol)MnBr3 Polycrystalline
+ (R-3-hydroxypiperidinium)MnBr3 Polycrystalline
+FOM (*10−3)
+PL FWHM (nm)
+ 
+Supplementary Fig. 18 | The narrow bandwidth of chiral europium halides. Comparison between the 
+PL full width at half maximum (FWHM) and the figure of merit (FOM) of chiral metal halides with red 
+emission reported in literatures and this work. 
+ 
+ 
+
+20 
+ 
+ 
+Supplementary Fig. 19 | Experimental results of the temperature-dependent degree of 
+photoluminescence polarization (DP) without and with a constant in-plane magnetic field (±900 
+mT). The samples are microcrystals, either (R-3BrMBA)3EuCl6 or (S-3BrMBA)3EuCl6. By averaging the 
+results of the three sets of tests, the error bars were processed to include the range of the maximum 
+deviation. The green, blue-green and light green dots represent the temperature-dependent DP under 0 
+mT, 900 mT and −900 mT for (R-3BrMBA)3EuCl6, respectively. The orange, pink and yellow dots 
+represent the temperature-dependent DP under 0 mT, 900 mT and −900 mT for (S-3BrMBA)3EuCl6, 
+respectively.  
+ 
+ 
+ 
+
+21 
+ 
+ 
+ 
+Supplementary Fig. 20 | Magneto-photoluminescence (MPL) measurements at 612 nm and 300 K. 
+The MPL of (R-3BrMBA)3EuCl6 (pink) (a) and (S-3BrMBA)3EuCl6 (blue) (b) at 612 nm and 300 K. 
+ 
+ 
+ 
+
+22 
+ 
+ 
+ 
+ 
+Supplementary Fig. 21 | MPL measurements at 591 nm and 4 K. The MPL of (R-3BrMBA)3EuCl6 
+(pink) (a) and (S-3BrMBA)3EuCl6 (blue) (b) at 591 nm and 4 K. 
+ 
+ 
+
+23 
+ 
+ 
+ 
+Supplementary Fig. 22 | Magnetic properties. The temperature dependence of the magnetic 
+susceptibility (𝜒) curves of (R-3BrMBA)3EuCl6 in an applied magnetic field of 1000 Oe under the zero-
+field-cooling (ZFC, black) and field-cooling (FC, red) process, respectively. The blue line represents the 
+fitting curve. The Van Vleck fitted equation is given below:1 
+ 𝜒= (
+𝑁𝛽
+3k𝑇𝑥) ×
+24+(27𝑥
+2 −2
+3)e−𝑥+(135𝑥
+2 −5
+2)e−3𝑥+(189𝑥
+2 −7
+2)e−6𝑥+(405𝑥
+2 −9
+2)e−10𝑥+(1485𝑥
+2
+−11
+2 )e−15𝑥
+1+3e−𝑥+5e−3𝑥+7e−6𝑥+9e−10𝑥+11e−15𝑥+13e−21𝑥
+     (1) 
+𝑥=
+𝜁
+k𝑇                                           (2) 
+The low-temperature region between 2 K to 100 K is affected by the contribution of classical Curie 
+paramagnetic behavior, due to the high magnetic susceptibility caused by low temperature. The gradual 
+decrement in the magnetic susceptibility above 100 K is dominated by Van Vleck paramagnetic behavior, 
+with a coupling constant of about 356.76 cm−1, which is within the reported coupling range of some Van 
+Vleck paramagnetism about Eu compounds (333~370 cm−1). At room temperature, the total magnetic 
+behavior (the sum of Curie paramagnetism and Van Vleck paramagnetism) exhibits a magnetic moment 
+of 3.7 μB. 
+ 
+ 
+ 
+ 
+
+24 
+ 
+Supplementary Tables 
+Supplementary Table 1. The crystal data of (R-3BrMBA)3EuCl6 and (S-3BrMBA)3EuCl6. 
+ 
+Name 
+(R-3BrMBA)3EuCl6 
+(S-3BrMBA)3EuCl6 
+Empirical formula 
+C24H33Br3N3EuCl6 
+C24H33Br3N3EuCl6 
+Formula weight (g mol-1) 
+967.92 
+967.92 
+Temperature (K) 
+100.00(10) 
+100.00(10) 
+Crystal system 
+Orthorhombic 
+Orthorhombic 
+Space group 
+P212121 
+P212121 
+a (Å) 
+7.6546(2) 
+7.6510(2) 
+b (Å) 
+14.6206(5) 
+14.6533(4) 
+c (Å) 
+31.5842(9) 
+31.5797(8) 
+α (°) 
+90 
+90 
+β (°) 
+90 
+90 
+γ (°) 
+90 
+90 
+Z 
+4 
+4 
+Volume (Å3) 
+3534.74(18) 
+3540.48(16) 
+Flack parameter 
+-0.010(5) 
+-0.001(5) 
+ 
+ 
+ 
+ 
+
+25 
+ 
+Supplementary Table 2. The parameters of some representative CPL materials with red emission in 
+chiral hybrid metal halides. 
+ 
+Red-CPL Materials 
+|glum| 
+PLQY 
+FOM 
+(×10-3) 
+PL 
+FWHM 
+(nm) 
+PL 
+Lifetime 
+(ms) 
+Ref. 
+1 
+(R-3-fluoropyrrolidinium)3MnBr3 
+0.61% 28.13% 
+1.72 
+100 
+/ 
+2 
+2 
+(R-3-quinuclidinol)MnBr3 
+Polycrystalline 
+2.30% 
+31.6% 
+7.27 
+80 
+1.11 
+3 
+3 
+(R-2-amino-1-propanol)MnBr3 
+Polycrystalline 
+1.91% 
+29.7% 
+5.67 
+80 
+0.96 
+3 
+4 
+(R-3-hydroxypiperidinium)MnBr3 
+Polycrystalline 
+0.85% 
+9.7% 
+0.82 
+80 
+0.41 
+3 
+5 
+(D)-(tert-butyl prolinate)MnCl3 
+0.61% 
+67.1% 
+4.09 
+100 
+0.72 
+4 
+6 
+S-(3-hydroxypiperidine)MnCl3 
+0.17% 61.13% 
+1.08 
+95 
+0.43 
+5 
+7 
+R-(3-methylpiperidine)MnCl3 
+0.25% 99.70% 
+2.49 
+88 
+0.87 
+5 
+8 
+(R-3-aminopyrrolidine 
+dihydrochloride)6(Mn3Cl12)(Cl)6 
+0.71% 
+42.5% 
+3.02 
+75 
+1.906 
+6 
+9 
+(R-1,2-diaminopropane dihydro 
+chloride)3(Mn3Cl12) 
+0.2% 
+86.3% 
+1.73 
+75 
+1.211 
+6 
+10 
+the phosphonium-passivated R/S-
+(PEAxNEA1−x)2MAn−1PbnI3n+1 
+0.21% 
+31.5% 
+0.66 
+60 
+/ 
+7 
+ 
+(R-3BrMBA)3EuCl6 
+1.84% 
+56.5% 
+10.40 
+<10 
+≈2 
+This 
+work 
+ 
+ 
+ 
+
+26 
+ 
+Supplementary references 
+1. 
+Kent, G. T. et al. Hybrid iodide perovskites of divalent alkaline earth and lanthanide elements. J. Am. Chem. Soc. 145, 
+27850–27856 (2023). 
+2. 
+Gao, J.-X., Zhang, W.-Y., Wu, Z.-G., Zheng, Y.-X. & Fu, D.-W. Enantiomorphic perovskite ferroelectrics with 
+circularly polarized luminescence. J. Am. Chem. Soc. 142, 4756–4761 (2020). 
+3. 
+Chen, J. et al. Structural origin of enhanced circularly polarized luminescence in hybrid manganese bromides. Angew. 
+Chem. Int. Ed. 61, e202205906 (2022). 
+4. 
+Xuan, H. L. et al. Amino‐acid‐induced circular polarized luminescence in one‐dimensional manganese(II) halide 
+hybrid. Chem. Eur. J. 28, e202201299 (2022). 
+5. 
+Li, J. et al. Circularly polarized luminescence induced by hydrogen‐bonding networks in a one‐dimensional hybrid 
+manganese(II) chloride. Angew. Chem. Int. Ed. 63, e202405310 (2024). 
+6. 
+Wang, M. et al. Chiral hybrid manganese(ii) halide clusters with circularly polarized luminescence for X-ray imaging. 
+J. Mater. Chem. C 11, 3206–3212 (2023). 
+7. 
+Yang, C.-H., Xiao, S.-B., Xiao, H., Xu, L.-J. & Chen, Z.-N. Efficient red-emissive circularly polarized 
+electroluminescence enabled by quasi-2D perovskite with chiral spacer cation. ACS Nano 17, 7830–7836 (2023). 
+ 
+ 
+ 

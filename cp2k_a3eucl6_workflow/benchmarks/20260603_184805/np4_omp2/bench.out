@@ -1,0 +1,182 @@
+ DBCSR| CPU Multiplication driver                                           BLAS
+ DBCSR| Multrec recursion limit                                              512
+ DBCSR| Multiplication stack size                                           1000
+ DBCSR| Maximum elements for images                                    UNLIMITED
+ DBCSR| Multiplicative factor virtual images                                   1
+ DBCSR| Use multiplication densification                                       T
+ DBCSR| Multiplication size stacks                                             3
+ DBCSR| Use memory pool for CPU allocation                                     F
+ DBCSR| Number of 3D layers                                               SINGLE
+ DBCSR| Use MPI memory allocation                                              F
+ DBCSR| Use RMA algorithm                                                      F
+ DBCSR| Use Communication thread                                               T
+ DBCSR| Communication thread load                                             83
+ DBCSR| MPI: My node id                                                        0
+ DBCSR| MPI: Number of nodes                                                   4
+ DBCSR| OMP: Current number of threads                                         2
+ DBCSR| OMP: Max number of threads                                             2
+ DBCSR| Split modifier for TAS multiplication algorithm                  1.0E+00
+
+
+  **** **** ******  **  PROGRAM STARTED AT               2026-06-03 18:52:10.395
+ ***** ** ***  *** **   PROGRAM STARTED ON                       WIN-J3K434GUOOG
+ **    ****   ******    PROGRAM STARTED BY                                   cpl
+ ***** **    ** ** **   PROGRAM PROCESS ID                                  1763
+  **** **  *******  **  PROGRAM STARTED IN /mnt/d/CPL_CAL/cp2k_a3eucl6_workflow/
+                                           benchmarks/20260603_184805/np4_omp2
+
+ CP2K| version string:                                          CP2K version 9.1
+ CP2K| source code revision number:                                  git:d8d7100
+ CP2K| cp2kflags: omp libint fftw3 libxc elpa parallel mpi3 scalapack spglib    
+ CP2K| is freely available from                            https://www.cp2k.org/
+ CP2K| Program compiled at                          Sun Jan  9 17:14:22 UTC 2022
+ CP2K| Program compiled on                                       lcy02-amd64-025
+ CP2K| Program compiled for                                Linux-x86_64-gfortran
+ CP2K| Data directory path                                       /usr/share/cp2k
+ CP2K| Input file name                                               cellopt.inp
+
+ GLOBAL| Force Environment number                                              1
+ GLOBAL| Basis set file name                                       BASIS_A3EUCL6
+ GLOBAL| Potential file name                                   POTENTIAL_A3EUCL6
+ GLOBAL| MM Potential file name                                     MM_POTENTIAL
+ GLOBAL| Coordinate file name                                      __STD_INPUT__
+ GLOBAL| Method name                                                        CP2K
+ GLOBAL| Project name                                               QUVXEO_R_GEO
+ GLOBAL| Run type                                                        GEO_OPT
+ GLOBAL| FFT library                                                       FFTW3
+ GLOBAL| Diagonalization library                                            ELPA
+ GLOBAL| Minimum number of eigenvectors for ELPA usage                        16
+ GLOBAL| Orthonormality check for eigenvectors                          DISABLED
+ GLOBAL| Matrix multiplication library                                 ScaLAPACK
+ GLOBAL| All-to-all communication in single precision                          F
+ GLOBAL| FFTs using library dependent lengths                                  F
+ GLOBAL| Grid backend                                                       AUTO
+ GLOBAL| Global print level                                                  LOW
+ GLOBAL| MPI I/O enabled                                                       T
+ GLOBAL| Total number of message passing processes                             4
+ GLOBAL| Number of threads for this process                                    2
+ GLOBAL| This output is from process                                           0
+ GLOBAL| Stack size for threads created by OpenMP (OMP_STACKSIZE)        default
+ GLOBAL| CPU model name                             Intel(R) Core(TM) i5-14600KF
+
+ MEMORY| system memory details [Kb]
+ MEMORY|                        rank 0           min           max       average
+ MEMORY| MemTotal             16278588      16278588      16278588      16278588
+ MEMORY| MemFree              14526284      14526284      14526284      14526284
+ MEMORY| Buffers                 48292         48292         48292         48292
+ MEMORY| Cached                 811356        811356        811356        811356
+ MEMORY| Slab                   119856        119856        119856        119856
+ MEMORY| SReclaimable            36552         36552         36552         36552
+ MEMORY| MemLikelyFree        15422484      15422484      15422484      15422484
+
+
+ GENERATE|  Preliminary Number of Bonds generated:                             0
+ GENERATE|  Achieved consistency in connectivity generation.
+
+ *******************************************************************************
+ *******************************************************************************
+ **                                                                           **
+ **     #####                         ##              ##                      **
+ **    ##   ##            ##          ##              ##                      **
+ **   ##     ##                       ##            ######                    **
+ **   ##     ##  ##   ##  ##   #####  ##  ##   ####   ##    #####    #####    **
+ **   ##     ##  ##   ##  ##  ##      ## ##   ##      ##   ##   ##  ##   ##   **
+ **   ##  ## ##  ##   ##  ##  ##      ####     ###    ##   ######   ######    **
+ **    ##  ###   ##   ##  ##  ##      ## ##      ##   ##   ##       ##        **
+ **     #######   #####   ##   #####  ##  ##  ####    ##    #####   ##        **
+ **           ##                                                    ##        **
+ **                                                                           **
+ **                                                ... make the atoms dance   **
+ **                                                                           **
+ **            Copyright (C) by CP2K developers group (2000-2021)             **
+ **                      J. Chem. Phys. 152, 194103 (2020)                    **
+ **                                                                           **
+ *******************************************************************************
+
+
+ TOTAL NUMBERS AND MAXIMUM NUMBERS
+
+  Total number of            - Atomic kinds:                                   6
+                             - Atoms:                                        280
+                             - Shell sets:                                   296
+                             - Shells:                                      1160
+                             - Primitive Cartesian functions:               1388
+                             - Cartesian basis functions:                   2920
+                             - Spherical basis functions:                   2720
+
+  Maximum angular momentum of- Orbital basis functions:                        3
+                             - Local part of the GTH pseudopotential:          2
+                             - Non-local part of the GTH pseudopotential:      4
+
+
+ SCF PARAMETERS         Density guess:                                    ATOMIC
+                        --------------------------------------------------------
+                        max_scf:                                             200
+                        max_scf_history:                                       0
+                        max_diis:                                              4
+                        --------------------------------------------------------
+                        eps_scf:                                        1.00E-05
+                        eps_scf_history:                                0.00E+00
+                        eps_diis:                                       1.00E-01
+                        eps_eigval:                                     1.00E-05
+                        --------------------------------------------------------
+                        level_shift [a.u.]:                                 0.00
+                        --------------------------------------------------------
+                        Outer loop SCF in use 
+                        No variables optimised in outer loop
+                        eps_scf                                         1.00E-05
+                        max_scf                                                8
+                        No outer loop optimization
+                        step_size                                       5.00E-01
+
+ BFGS| Use rational function optimization for step estimation:                NO
+ BFGS| Use model Hessian for initial guess:                                  YES
+ BFGS| Restart Hessian:                                                       NO
+ BFGS| Trust radius:                                                       0.472
+
+ *******************************************************************************
+ ***                     STARTING GEOMETRY OPTIMIZATION                      ***
+ ***                                   BFGS                                  ***
+ *******************************************************************************
+
+ Number of electrons:                                                        896
+ Number of occupied orbitals:                                                448
+ Number of molecular orbitals:                                               448
+
+ Number of orbital functions:                                               2720
+ Number of independent orbital functions:                                   2720
+
+ Extrapolation method: initial_guess
+
+
+ SCF WAVEFUNCTION OPTIMIZATION
+
+  ----------------------------------- OT ---------------------------------------
+  Minimizer      : DIIS                : direct inversion
+                                         in the iterative subspace
+                                         using   7 DIIS vectors
+                                         safer DIIS on
+  Preconditioner : FULL_SINGLE_INVERSE : inversion of 
+                                         H + eS - 2*(Sc)(c^T*H*c+const)(Sc)^T
+  Precond_solver : DEFAULT
+  stepsize       :    0.08000000                  energy_gap     :    0.08000000
+  eps_taylor     :   0.10000E-15                  max_taylor     :             4
+  ----------------------------------- OT ---------------------------------------
+
+  Step     Update method      Time    Convergence         Total energy    Change
+  ------------------------------------------------------------------------------
+     1 OT DIIS     0.80E-01    5.3     0.01817521     -1536.1378143137 -1.54E+03
+     2 OT DIIS     0.80E-01    3.6     0.01293132     -1563.5925912470 -2.75E+01
+     3 OT DIIS     0.80E-01    3.6     0.00788441     -1586.8231757630 -2.32E+01
+     4 OT DIIS     0.80E-01    3.5     0.00690888     -1590.7801520588 -3.96E+00
+     5 OT DIIS     0.80E-01    3.6     0.00516556     -1605.7445177077 -1.50E+01
+     6 OT DIIS     0.80E-01    3.6     0.00389835     -1612.3374167934 -6.59E+00
+     7 OT DIIS     0.80E-01    3.6     0.00320912     -1616.9277076468 -4.59E+00
+     8 OT DIIS     0.80E-01    3.6     0.00237346     -1622.4919062258 -5.56E+00
+     9 OT DIIS     0.80E-01    3.6     0.00191934     -1625.2466052049 -2.75E+00
+    10 OT DIIS     0.80E-01    3.5     0.00154305     -1627.2810564444 -2.03E+00
+    11 OT DIIS     0.80E-01    3.6     0.00148485     -1627.7781589496 -4.97E-01
+    12 OT DIIS     0.80E-01    3.5     0.00126139     -1628.9668166094 -1.19E+00
+    13 OT DIIS     0.80E-01    3.6     0.00105574     -1630.1670564934 -1.20E+00
+    14 OT DIIS     0.80E-01    3.6     0.00093095     -1630.6174166198 -4.50E-01
+    15 OT DIIS     0.80E-01    3.5     0.00075015     -1631.4227879539 -8.05E-01
